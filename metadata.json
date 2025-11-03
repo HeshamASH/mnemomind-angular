@@ -1,0 +1,8 @@
+{
+  "name": "MnemoMind",
+  "description": "An intelligent, conversational AI assistant with a custom memory, powered by Elastic and Google Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,540 @@
+PayPal Cryptocurrency Terms and Conditions:
+
+Last updated on September 2, 2025
+
+BEFORE YOU START: BUYING AND SELLING CRYPTO ASSETS IS INHERENTLY RISKY
+CRYPTO ASSETS ARE NOT INSURED BY THE FEDERAL DEPOSIT INSURANCE CORPORATION (FDIC), THE SECURITIES INVESTOR PROTECTION CORPORATION (SIPC) OR ANY OTHER PUBLIC OR PRIVATE INSURER, INCLUDING AGAINST CYBER THEFT OR THEFT BY OTHER MEANS. CRYPTOCURRENCY ACTIVITY IS NOT A REGULATED ACTIVITY IN MANY U.S. STATES AND TERRITORIES. THE VALUE OF CRYPTO ASSETS CAN BE EXTREMELY VOLATILE AND UNPREDICTABLE, WHICH CAN RESULT IN SIGNIFICANT LOSSES IN A SHORT TIME, INCLUDING POSSIBLY A LOSS OF TOTAL VALUE. THE PRICE AND LIQUIDITY OF CRYPTO ASSETS HAS BEEN SUBJECT TO LARGE FLUCTUATIONS IN THE PAST AND MAY BE SUBJECT TO LARGE FLUCTUATIONS IN THE FUTURE. BUYING AND SELLING CRYPTO ASSETS IS INHERENTLY RISKY, AND YOU SHOULD CONSIDER THE RISKS BEFORE DECIDING TO BUY OR SELL CRYPTO ASSETS, INCLUDING THOSE PROVIDED IN OUR RISK DISCLOSURES AND STATE DISCLOSURES SECTIONS BELOW.
+
+IF YOU HAVE QUESTIONS OR CONCERNS REGARDING YOUR CRYPTO CURRENCIES HUB, YOUR CRYPTO ASSETS, OUR SERVICE PROVIDER(S), OR RELATED TRANSACTIONS OR ACCOUNT ACTIVITY, PLEASE CONTACT PAYPAL CUSTOMER SERVICE OR CALL: (888) 221-1161. YOU CAN ALSO WRITE TO: PAYPAL, ATTN: CRYPTOCURRENCY SUPPORT, P.O. BOX 45950, OMAHA, NE 68145-0950.
+
+These terms and conditions (“Cryptocurrency Terms”) are between you and PayPal, Inc. and govern your establishment and use of the portion of your account where you can hold, transact in, and learn about cryptocurrency (your “Cryptocurrencies Hub”).
+
+You must be an individual and resident of the United States or one of its territories and at least 18 years old, or the age of majority in your state or territory of residence, to access a Cryptocurrencies Hub established within your PayPal Balance Account (the “Consumer Cryptocurrencies Hub”) and use the related services.
+
+To access the Cryptocurrencies Hub within your PayPal Business Account (the “Business Cryptocurrencies Hub”) and use the related services, the business must be organized in, operating in, or a resident of, the United States or one of its territories. If you establish a Business Cryptocurrencies Hub, you certify that you will use it primarily for a business or commercial purpose.
+
+By accessing and using the Cryptocurrencies Hub, you agree to comply with all applicable aspects of these Cryptocurrency Terms. Each Consumer Cryptocurrencies Hub is subject to the Balance Account Agreement to Arbitrate. Each Business Cryptocurrencies Hub is subject to the PayPal Account Agreement to Arbitrate.
+
+In addition, you agree to comply with the following additional policies:
+
+PayPal Account User Agreement
+
+Privacy Statement
+
+Acceptable Use Policy
+
+Electronic Communications Delivery Policy (E-Sign Disclosure and Consent)
+
+PayPal Balance Terms and Conditions (to the extent you have a Consumer Cryptocurrencies Hub) 
+
+Please read carefully all of these Cryptocurrency Terms and each of the other agreements and policies that apply to you, including our Privacy Statement, which applies to the transaction and activity data we collect involving your Cryptocurrencies Hub.
+
+Any capitalized terms used but not defined herein will have the meaning set out in the PayPal Balance Terms and Conditions or the PayPal Account User Agreement. If there is any conflict between the PayPal Balance Terms and Conditions or the PayPal Account User Agreement and these Cryptocurrency Terms, these Cryptocurrency Terms will govern and apply to the extent of such conflict.
+
+We may revise these Cryptocurrency Terms and any of the agreements and policies listed above from time to time. The revised version will be effective at the time we post it, unless otherwise noted. If our changes to these Cryptocurrency Terms reduce your rights or increase your responsibilities, we will post a notice on the Policy Updates page of our website and provide you at least 21 days' advance notice, or such longer period as required by law. By continuing to use our services, including by holding Crypto Assets (as defined below), after any change to these Cryptocurrency Terms, you agree to abide and be bound by those changes. If you do not agree with any changes to these Cryptocurrency Terms, you must sell or transfer your Crypto Assets and stop accessing your Cryptocurrencies Hub. If there is a hold on your account you may be able to sell, but not transfer, your Crypto Assets. Please note that there may be tax consequences when you sell, and in certain situations when you transfer or receive Crypto Assets.
+
+Establishing Your Cryptocurrencies Hub
+If you establish and access the Cryptocurrencies Hub, you will be able to hold a Crypto Asset balance, and buy, sell, receive, and send Crypto Assets. A Consumer Cryptocurrencies Hub can also be used to sell Crypto Assets in transactions where the proceeds will be used to pay for purchases through PayPal and to convert between PYUSD and another Crypto Asset.
+
+Any balance in your Cryptocurrencies Hub represents your ownership of the amount of each Crypto Asset shown. You will not hold the digital Crypto Assets themselves in your Crypto Asset balance. Some custody, trading, and transfer services for Crypto Assets are performed for us by Paxos Trust Company, LLC, (“Paxos”) or other appropriately licensed or otherwise authorized service provider (each, including Paxos, a "Service Provider"). Your use of the Cryptocurrencies Hub may depend on you having a PayPal account and (if using a Consumer Cryptocurrencies Hub) a Balance Account in good standing, and us verifying the required identifying information you provide to us.
+
+We will automatically link your Cryptocurrencies Hub to your PayPal account. Your login credentials for your PayPal account act as the credentials to access your Cryptocurrencies Hub.
+
+Before you are able to first access your Cryptocurrencies Hub, we must verify or have previously verified the required identifying information that you provide to us. The required identifying information is:
+
+For a Consumer Cryptocurrencies Hub: name, physical address, date of birth, and taxpayer identification number.
+For a Business Cryptocurrencies Hub: business name, business address, taxpayer identification number, identifying information on beneficial owners, federal tax classification, and proof of business existence.
+We may require additional information from you from time to time in order to verify the required identifying information, such as a copy of your government issued photo ID or evidence of your residency, like a utility bill. For some uses of your Cryptocurrencies Hub, we may request that you provide a picture of your face or other biometric information for identity verification purposes. If required, we will offer you an alternative to providing biometric information.
+
+You are responsible for maintaining adequate security and control of any and all IDs, passwords, personal identification numbers, or any other codes that you use to access your Cryptocurrencies Hub and the PayPal services. You agree to keep your physical address, mailing address, email address and other personal information current in your PayPal profile.
+
+Closing Your Cryptocurrencies Hub
+You must close your Balance Account in order to close your Consumer Cryptocurrencies Hub. You can close your Balance Account and Consumer Cryptocurrencies Hub without closing your personal PayPal account. Closing your personal PayPal account or Balance Account will automatically close your Consumer Cryptocurrencies Hub.
+
+You can close your Business Cryptocurrencies Hub without closing your Business Account. Closing your Business Account will automatically close your Business Cryptocurrencies Hub.
+
+You can view more information about what happens if PayPal closes your Cryptocurrencies Hub here.
+
+You can terminate your relationship with us at any time without cost, but you will remain liable for all obligations related to your Cryptocurrencies Hub, Balance Account and PayPal account even after those accounts are closed. You must sell or transfer any Crypto Assets in your Cryptocurrencies Hub before closing your Cryptocurrencies Hub.
+
+Available Features of the Cryptocurrencies Hub
+As described in more detail below, here are some things you can do with the Cryptocurrencies Hub:
+
+Buy Crypto Assets;
+Hold Crypto Assets;
+Sell Crypto Assets (including, for a Consumer Cryptocurrencies Hub user, the ability to use the sale proceeds to pay for purchases through a PayPal account);
+Convert between PYUSD and another Crypto Asset (for Consumer Cryptocurrencies Hubs only);
+Send Crypto Assets;
+Receive Crypto Assets; and
+View market information and educational content.
+Some or all features of the Cryptocurrencies Hub may be not available in some U.S. locations.
+
+Supported Crypto Assets
+The term "Crypto Assets" means the particular digital assets that PayPal supports and that you may buy, sell, and hold using your Cryptocurrencies Hub. The list of Crypto Assets supported by PayPal at any given time can be found in your Cryptocurrencies Hub. You cannot use your Cryptocurrencies Hub to hold any digital assets other than the supported Crypto Assets.
+
+You should not attempt to use your Cryptocurrencies Hub to hold, receive or request any digital assets other than the Crypto Assets supported by PayPal. If you attempt to receive or hold digital assets in your Cryptocurrencies Hub that are not supported by PayPal, or someone attempts to send such unsupported digital assets to you (including via an airdrop), they will be permanently lost. PayPal is not responsible or liable to you for any losses or damages which may occur as a result of any attempt to use the Cryptocurrencies Hub with any digital asset we do not support.
+
+PYUSD Stablecoin
+One of the Crypto Assets that PayPal supports is PYUSD, a U.S. dollar denominated stablecoin. PYUSD is issued by Paxos, not PayPal, on each of the Ethereum, Solana, Arbitrum, and Stellar cryptocurrency networks (each a “PYUSD Supported Blockchain”) and is subject to the Paxos US Dollar-Backed Stablecoin Terms and Conditions (the “Paxos Terms”). You should read the Paxos Terms carefully. By purchasing, receiving, or holding PYUSD, you are agreeing to the Paxos Terms.
+
+The Paxos Terms contain important information about your use of PYUSD, including Paxos’s obligation to ensure that PYUSD is fully backed by an equivalent amount of U.S. dollar bank deposits, U.S. Treasuries guaranteed by the full faith and credit of the United States Government, and U.S. Treasury reverse repurchase agreements held in custody by Paxos for the benefit of PYUSD holders. The reserve assets that back PYUSD will not include money-market funds. Paxos may hold such assets in a manner that generates interest and other earnings, in which case, you agree that Paxos may deduct from the assets it holds to support PYUSD the amount of any such interest and earnings attributable or allocable to the assets backing your PYUSD as payment for the custody services provided by Paxos, and you agree that Paxos may share such amount with PayPal. You are not entitled to any interest or other earnings that may be generated on the assets backing your PYUSD.
+
+PYUSD is different than other Crypto Assets. Regardless of the price of PYUSD in the market, if PayPal buys your PYUSD token in your Cryptocurrencies Hub, the price will be $1.00 U.S. dollar per token. When you buy or sell PYUSD in your Cryptocurrencies Hub, PayPal will satisfy your order by buying PYUSD from or selling PYUSD to Paxos, the issuer of PYUSD. Paxos is obligated to buy and sell PYUSD to and from PayPal at a stable price of $1.00 U.S. dollar per PYUSD token.
+
+You may also redeem PYUSD directly with Paxos for a price of $1.00 U.S. dollar, subject to the Paxos Terms. You should review the Paxos Terms carefully to understand your rights to redeem your PYUSD with Paxos.
+
+PayPal may stop supporting PYUSD at any time. PayPal may, but is not obligated to, provide you notice prior to terminating support of PYUSD as a Crypto Asset. You must sell or transfer to an external digital asset wallet any PYUSD token in your Cryptocurrencies Hub that PayPal has communicated it will no longer support.
+
+PayPal does not guarantee Paxos’s performance or obligations. Please read the RISK DISCLOSURES for more information.
+
+Holding Crypto Assets in your Cryptocurrencies Hub
+Any balance in your Cryptocurrencies Hub represents your ownership of the amount of each type of Crypto Asset shown. PayPal combines your Crypto Asset balance with the Crypto Asset balances of other PayPal accountholders and holds those Crypto Assets as your agent in one or more omnibus accounts, directly or with a Service Provider. We keep a record of your interest in any omnibus account based on the amount of each type of Crypto Asset that is reflected in your balance. You do not own any specific, identifiable, Crypto Asset. Any PYUSD balance reflected in your Cryptocurrencies Hub will not indicate a particular blockchain and may be issued by Paxos in its sole discretion on any PYUSD Supported Blockchain. These Crypto Assets are held apart from PayPal's corporate assets and PayPal will not use these assets for its operating expenses or any other corporate or business purposes, nor will it voluntarily make these Crypto Assets available to its creditors in the event of bankruptcy.
+
+When you view your Cryptocurrencies Hub balance, we will show you the amount of each type of Crypto Asset you own, as well as a U.S. dollar equivalent value of those Crypto Assets. The price of Crypto Assets generally may rise and fall over time, and the price may sometimes change quickly and dramatically. So, even if the number of each type of Crypto Assets you hold remains the same, the U.S. dollar equivalent value will change as the market price of each Crypto Asset fluctuates. The U.S. dollar value we display is an estimate based on market data from a Service Provider. The value we show is the midpoint between the lowest recent sale price at which the applicable cryptocurrency was offered for sale and the highest recent price at which that same cryptocurrency was purchased, as reported by a Service Provider. This estimate does not represent the value you will receive if you actually sell your Crypto Assets or the price you will pay to buy more Crypto Assets and does not include our spread or fees.
+
+PYUSD rewards program
+PYUSD IS NOT LEGAL TENDER. PAYPAL IS A FINANCIAL TECHNOLOGY COMPANY, NOT A BANK. YOUR CRYPTOCURRENCIES HUB IS NOT A DEPOSIT ACCOUNT AND YOUR PYUSD ARE NOT DEPOSITS. PAYPAL DOES NOT INTEND FOR PYUSD REWARDS TO CONSTITUTE A SECURITIES OFFERING AND PARTICIPATION IN THE LOYALTY PROGRAM IS NOT AN INVESTMENT IN A SECURITIES OFFERING.
+
+Eligibility
+PayPal may offer you the ability to elect to participate in the PYUSD rewards program (“PYUSD Rewards Program”) to earn rewards of PYUSD based on the amount of PYUSD held in your Cryptocurrencies Hub (“PYUSD Rewards”). You may only elect to participate in PYUSD Rewards if you are “Eligible”, which means you have a:
+
+Consumer Cryptocurrencies Hub and there is not a negative balance or any holds, limitations or restrictions on your Balance Account; or
+Business Cryptocurrencies Hub and there is not a negative balance or any holds, limitations or restrictions on your Business Account.
+While you participate in the PYUSD Rewards Program, you will accrue PYUSD Rewards calculated as described below, as long as you hold at least 1.0 PYUSD in your Cryptocurrencies Hub. If at any time you hold less than 1.0 PYUSD, you will not continue to accrue PYUSD Rewards. PayPal will aim to credit accrued rewards into your Cryptocurrencies Hub at the beginning of each month, but will, at the latest, credit such accrued rewards into your Cryptocurrencies Hub within thirty (30) calendar days after the start of the next calendar month as long as you remain Eligible at the time of crediting. If you are not Eligible at the time of crediting, your accrued PYUSD Rewards will not be credited to your Cryptocurrencies Hub, and we will retain your accrued PYUSD Rewards until the next scheduled settlement date when you are Eligible.
+
+You will not earn PYUSD Rewards on amounts of PYUSD Rewards that have accrued but have not yet been credited to your Cryptocurrencies Hub. You can opt-out of the PYUSD Rewards Program at any time, in which case, you will stop accruing PYUSD Rewards, and any previously accrued amounts will be credited to your Cryptocurrencies Hub on the next scheduled payment date in which you are Eligible.
+
+If you close your Cryptocurrencies Hub, you will forfeit any accrued PYUSD Rewards that have not yet been credited to your Cryptocurrencies Hub.
+
+Benefits you receive through the payout of PYUSD Rewards may qualify as reportable by PayPal and taxable income to you under applicable law. You may be asked to provide certain identifying information (for example, your Social Security Number or Taxpayer Identification Number) for tax purposes. You are solely responsible for any tax liability incurred in connection with your participation in the PYUSD Rewards Program.
+
+Calculation of PYUSD Rewards
+PYUSD Rewards are accrued on a daily basis in the form of PYUSD at the then current “PYUSD Rewards Rate”, which is an annual rate of rewards earned on PYUSD held in your Cryptocurrencies Hub (as long as you hold at least 1.0 PYUSD) and is non-compounding. To calculate your PYUSD Rewards, we apply a daily periodic rate (the PYUSD Rewards Rate divided by 365) to the average balance of PYUSD you hold during each day of the month. PYUSD Rewards will begin to accrue on PYUSD the same day as such PYUSD is reflected in your Cryptocurrencies Hub. PYUSD Rewards are rounded down to the nearest sixth decimal place, though in most places in the Cryptocurrencies Hub, we will display your PYUSD amount rounded to two decimal places.
+
+Pending PYUSD Rewards
+In your Cryptocurrencies Hub, your “Pending Rewards” will be displayed to you, which are the amount of PYUSD Rewards you have accrued as of the end of the prior calendar day that have not yet been credited to your Cryptocurrencies Hub.
+
+Changes to the PYUSD Rewards Rate
+The PYUSD Rewards Rate will be determined at all times in our sole discretion and is not guaranteed. We reserve the right to change the PYUSD Rewards Rate at any time by email notification and by other reasonable means of notice, and the effective date of that change will be the date specified in such notice. We may change the terms of the PYUSD Rewards Program, or terminate the PYUSD Rewards Program, or your participation in the PYUSD Rewards Program, at any time (i) upon notice to you or (ii) if the PYUSD Rewards Program is no longer available to you under applicable law.
+
+Buying Crypto Assets
+You may use your Cryptocurrencies Hub to buy Crypto Assets using the following funding sources:
+
+a balance held in your Business Account (for Business Cryptocurrencies Hub transactions) or your Balance Account (for Consumer Cryptocurrencies Hub transactions);
+a bank account linked to your PayPal account; or
+a debit card linked to your PayPal account.
+We do not currently allow use of a credit card or other credit products (including, without limitation, those offered by PayPal) to purchase Crypto Assets.
+
+To buy Crypto Assets, PayPal will first show you the amount of Crypto Assets you would receive in exchange for the amount of money that you wish to spend. Because the price of most Crypto Assets fluctuates, the price we provide will only be valid for a limited time. If the price we provided expires, you won't be able to complete your transaction at that price. If you still want to buy Crypto Assets, we will provide you with updated pricing information. The updated price you see may be much higher than a price that just expired. This is because most Crypto Assets are inherently volatile. The price of PYUSD, unlike other Crypto Assets, will remain fixed at $1.00 U.S. dollar per PYUSD token when bought from or sold to PayPal on the Cryptocurrencies Hub. Please read the RISK DISCLOSURES for more information. Once you confirm your transaction, we will then execute and settle your purchase with our Service Provider.
+
+Once you confirm your purchase, your transaction is not reversible. If we cannot complete your purchase for any reason, we will notify you. Once your transaction is complete, we will email you a receipt. You may also see your transaction history in your Balance Account (for Consumer Cryptocurrencies Hub transactions) or Business Account (for Business Cryptocurrencies Hub transactions).
+
+Scheduling Recurring Buys of Crypto Assets
+You may use your Consumer Cryptocurrencies Hub to set up a recurring buy order (“Recurring Buy”). A Business Cryptocurrencies Hub cannot be used to conduct Recurring Buy transactions. When you create a Recurring Buy, you will be asked to select the Crypto Asset type, dollar amount, frequency, start date, and funding source(s) for the Recurring Buy. When you instruct PayPal to set up a Recurring Buy, you authorize PayPal to execute the Recurring Buy against your designated funding source(s) in the U.S. dollar amount and at the frequency you specify during the setup process. The start date may be immediate or up to 30 days from when you set up your Recurring Buy. If you schedule a monthly Recurring Buy with a start date on the 29th, 30th, or 31st of the month, the Recurring Buy will occur on the last calendar day of shorter months, until canceled or paused. For example, if the start date for your first monthly Recurring Buy is March 31st, your next two Recurring Buys will occur on April 30th and May 31st. Otherwise, a monthly Recurring Buy occurs on the same date each month. For example, if the start date is March 15th for a monthly Recurring Buy, your next Recurring Buy will occur on April 15th.
+
+To set up a Recurring Buy, you must designate an eligible bank account or debit card as a funding source. Once you have done so, you may then designate your Balance Account as your primary funding source. If you do not have enough funds in your Balance Account to cover the full amount of a given purchase, we will charge your designated bank account or debit card for the full amount of the purchase.
+
+Each Recurring Buy of a Crypto Asset (other than PYUSD) includes a transaction fee and an exchange rate (including our spread). The exchange rate for each future Recurring Buy of a Crypto Asset (other than PYUSD) will be based on the total U.S. dollar amount of all Recurring Buys that PayPal executes that day for a given Crypto Asset divided by the total amount of the Crypto Asset purchased from a Service Provider in order to settle the Recurring Buys. When you create a Recurring Buy order, you may elect to make an initial purchase at that time. If you do so, the exchange rate shown will be for the first purchase only. The exchange rate for subsequent purchases of Crypto Assets, or for an initial purchase in a Recurring Buy you scheduled with a future start date, may vary significantly and will not be displayed at the time the Recurring Buy is created. You will be provided a receipt that shows the exchange rate at which each subsequent Recurring Buy was completed. That information is also accessible via your Cryptocurrencies Hub.
+
+You can modify, pause, or cancel any scheduled Recurring Buy through the Cryptocurrencies Hub at any time up to 11:59 p.m. EST on the day prior to the day of the scheduled Recurring Buy date in the “manage your recurring buy” section. If you instruct us to stop a Recurring Buy from your Balance Account by 11:59 p.m. EST on the day prior to the day of the scheduled Recurring Buy and we do not do so, we will be liable for your losses or damages caused by our failure to stop payment.
+
+It is important that you regularly check the setup of your Recurring Buys including the frequency, the type, and dollar amount of Crypto Assets that you wish to buy, your funding sources, and whether Recurring Buys remain appropriate for you in light of any changes in your circumstances or the value of Crypto Assets.
+
+Actions We May Take for Insufficient Payment for Crypto Assets
+When you buy Crypto Assets, you agree that you have enough available funds in your selected funding source to complete your purchase. If we are not able to collect the required funds to complete your purchase from your selected funding source, you authorize us to:
+
+stop your purchase so that you are not able to buy Crypto Assets in that transaction,
+charge the backup payment method or other payment method linked to your PayPal account,
+debit any other balance you hold in your PayPal account, up to the amount that is owed to PayPal,
+remove the Crypto Assets from your Cryptocurrencies Hub for which we did not receive payment and liquidate those Crypto Assets (PayPal will retain the proceeds of any such liquidation up to the amount that is owed to PayPal),
+liquidate any other Crypto Assets in your Cryptocurrencies Hub and debit the proceeds up to the amount that is owed to PayPal,
+cancel future scheduled Recurring Buys; and/or
+take any other action that we deem necessary to collect payment for your transaction, as allowed or required by relevant laws and regulations.
+Please note that there may be tax consequences from any gain or loss you incur if we liquidate your Crypto Assets. Should any additional proceeds from the liquidation of Crypto Assets covered by this section remain after PayPal has deducted amounts owed, these additional proceeds will be returned to your PayPal account as fiat currency.
+
+In the event of insufficient payment due to an insufficient or failed bank transfer, you authorize PayPal to re-present this transfer from your bank account if the initial transfer is rejected by your bank for any reason. This re-presentment may still occur even if PayPal has otherwise liquidated Crypto Assts you hold or debited your PayPal balance for amounts owed to PayPal, if there remain any outstanding amounts owed to PayPal.
+
+Selling Crypto Assets
+When you use your Cryptocurrencies Hub to sell your Crypto Assets, we will deliver the proceeds from the sale into your Balance Account (for Consumer Cryptocurrencies Hub sales) or Business Account (for Business Cryptocurrencies Hub sales). The timing of transfers of proceeds may be affected by any holds or limitations we place on your Balance Account, or any holds, limitations, or reserves we place on your Business Account, including specific holds or limitations with respect to the proceeds of the sale of your Crypto Assets. Any holds, limitations, or reserves described above will also apply to Crypto Assets sold in a conversion, Crypto Assets transferred and/or the proceeds of Crypto Assets sold in a Send to Sell Transaction.
+
+To sell Crypto Assets, PayPal will first show you the amount of money for which the Crypto Assets would be sold. Because the price of most Crypto Assets fluctuates, the price we provide will only be valid for a limited time. If the price we provided expires, you won't be able to complete your transaction at that price. If you still want to sell your Crypto Assets, we will provide you updated pricing information. The updated price you see may be much lower than a price that just expired. This is because most Crypto Assets are inherently volatile. The price of PYUSD, unlike other Crypto Assets, will remain fixed at $1.00 U.S. dollar per PYUSD token when bought from or sold to PayPal on the Cryptocurrencies Hub. Please read the RISK DISCLOSURES for more information. Once you confirm your transaction, we will execute and settle your sale with our Service Provider.
+
+Once you confirm your sale, your transaction is not reversible. If we cannot complete your sale for any reason, we will notify you. Once your transaction is complete, we will email you a receipt. You may also see your transaction history in your Balance Account (for Consumer Cryptocurrencies Hub transactions) or Business Account (for Business Cryptocurrencies Hub transactions).
+
+Converting Crypto Assets
+If you are using a Consumer Cryptocurrencies Hub, you may convert PYUSD to a different Crypto Asset, or convert a different Crypto Asset to PYUSD. At this time, you may not convert a Crypto Asset for another Crypto Asset unless one of those Crypto Assets is PYUSD.
+
+A Business Cryptocurrencies Hub cannot be used to convert Crypto Assets.
+
+When you do a conversion:
+
+First, your Crypto Asset is sold for U.S. dollars. All of the provisions of these Cryptocurrency Terms that apply to direct sales of your Crypto Assets also apply to the sale of Crypto Assets in connection with a conversion, including that the price you will see for converting your Crypto Assets will only be valid for a limited time. The U.S. dollar proceeds from this sale will be delivered into your Balance Account.
+
+Second, the amount delivered into your Balance Account will be used to fund the purchase of your selected Crypto Asset (provided that either the purchased or sold Crypto Asset must be PYUSD). All of the provisions of these Cryptocurrency Terms that apply to direct purchases of Crypto Assets also apply to the purchase of Crypto Assets in connection with a conversion. If the Crypto Assets are sold in the first leg of the transaction and the subsequent purchase does not occur, the U.S. dollar proceeds of the sale will remain in your Balance Account.
+
+Once you confirm your conversion, your transaction is not reversible. If we cannot complete your conversion for any reason, we will notify you. Once your transaction is complete, we will email you a receipt. You may receive two receipts in connection with a conversion transaction, one for the sale leg and a second for the purchase leg. You can also view your transaction history in your Balance Account. Your conversion will appear as two separate transactions, a sale and purchase, in your transaction history, monthly statement, and year-end tax documents.
+
+You will be charged a fee when you convert Crypto Assets, which may be different than the fee you would pay for a sale and subsequent purchase transaction. Information on fees for purchases, sales, and conversions can be found on the PayPal Fees page. PayPal will deduct the fee for your conversion from the amount of PYUSD or other Crypto Asset you wish to sell for the conversion. The fee will be deducted from the proceeds of the sale and will be reflected as such in your transaction history, monthly statement, and year-end tax documents.
+
+Remember that sales of Crypto Assets, including to convert from PYUSD to a different Crypto Asset or convert a Crypto Asset to PYUSD, may have tax consequences.
+
+Selling Crypto Assets to Pay for Transactions
+If you are using a Consumer Cryptocurrencies Hub, we may offer you the ability to sell your Crypto Assets and use the proceeds to pay for purchases or other transactions that can be funded using your Balance Account (e.g., PayPal checkout transactions and transactions with PayPal’s Xoom service) (“Checkout with Crypto”). A Business Cryptocurrencies Hub cannot be used to conduct Checkout with Crypto transactions.
+
+Checkout with Crypto may not be available as a funding option for all merchants, customers, PayPal services, or transactions. If your transaction qualifies for Checkout with Crypto, each of your eligible Crypto Asset types will appear, along with other means of payment linked to your account, as funding options to pay for the transaction. You can use your Crypto Assets just like any other funding source, but you will be asked to sell your Crypto Assets and apply the proceeds to your transaction.
+
+First, Crypto Assets will be sold for U.S. dollars in the amount of your transaction total at the moment you select Crypto Assets as a funding source. All of the provisions of these Cryptocurrency Terms that apply to direct sales of your Crypto Assets also apply to the sale of Crypto Assets to Checkout with Crypto, including that the price you will see for selling your Crypto Assets will only be valid for a limited time. The proceeds from this sale will be delivered into your Balance Account.
+
+Second, the amount delivered into your U.S. dollar Balance Account will be used to fund the transaction. If you sell Crypto Assets during the Checkout with Crypto process, but do not complete the transaction for any reason, the U.S. dollar proceeds of the sale will remain in your Balance Account. If you complete your transaction, but incur any additional transaction related taxes, fees, expenses, or other costs after selling your Crypto Assets, PayPal will charge your remaining Balance Account balance, and if necessary and applicable, then your backup payment method for those charges. If applicable, you will be able to see your backup payment method before you Checkout with Crypto. Because your transaction amount may change after you sell Crypto Assets, or because you may be unable to sell Crypto Assets, whenever you request to sell Crypto Assets for a transaction, you also agree that PayPal may charge up to the full payment amount to your backup method, if applicable.
+
+The PayPal Balance Terms and Conditions apply to transactions made via Checkout with Crypto to the same extent as any other Balance Account transaction.
+
+Please note that all sales of Crypto Assets to Checkout with Crypto are paid in U.S. dollars. If you are conducting a transaction in another currency, your U.S. dollars will then need to be exchanged for that currency. For PayPal account transactions, the provisions of your PayPal Account User Agreement and PayPal Balance Terms and Conditions, including those related to currency conversion, will apply. As disclosed in those agreements, PayPal earns income on the foreign currency conversion rate spreads it charges on these transactions and may charge an additional transaction fee for this foreign currency conversion. When using PayPal’s Xoom service to conduct transactions, the provisions of the Xoom User Agreement, including those related to foreign currency exchange rates, will apply. As disclosed in that agreement, we usually make money on the foreign currency exchange rate charged on the Xoom transaction.
+
+Remember that sales of Crypto Assets may have tax consequences. Be sure to consider any tax implications before using Crypto Assets as a funding source for purchases. Refunds for any transactions processed to Checkout with Crypto generally will be provided in U.S. dollars to your Balance Account, and in all cases will be provided in cash, not cryptocurrency. Cash refunds will be added to your Balance Account balance.
+
+Sending Crypto Assets
+You can use your Cryptocurrencies Hub to send Crypto Assets to another digital asset wallet you control or to someone you know. Providing the incorrect recipient information (for example, destination wallet address, name, username, phone number, or email address) will result in your Crypto Assets not being delivered to your intended recipient and being irretrievably lost. You are solely responsible for providing correct transaction details, including recipient information, to PayPal. PayPal is not responsible or liable for any losses you may incur as a result of you providing incorrect transaction details.
+
+There are two types of send transactions:
+
+Internal Transfer: A transfer to another Consumer Cryptocurrencies Hub (not currently available for Business Cryptocurrencies Hubs).
+External Transfer: A transfer to a digital wallet outside of PayPal.
+Internal Transfers
+
+If you are using a Consumer Cryptocurrencies Hub, you can send Crypto Assets to the PayPal account of a third party such as a friend or family member. If the person to whom you are sending Crypto Assets has not already set up a Cryptocurrencies Hub, they can claim their Crypto Assets by setting up their Cryptocurrencies Hub. If they don’t claim their Crypto Assets within 30 days, the Crypto Assets will be returned to you. You should carefully verify that you are providing the correct recipient information to PayPal. A Business Cryptocurrencies Hub cannot be used to send or receive Internal Transfers.
+
+External Transfers
+
+You can send Crypto Assets to an external digital asset wallet that you own and control, or to an external digital asset wallet owned and controlled by another person, such as a friend or family member. In order to send Crypto Assets outside of PayPal, you will need to provide the wallet address where you want to send the Crypto Assets.
+
+You should carefully verify that you have provided the correct destination wallet information to PayPal prior to submitting your external transfer.
+
+You will also need to use a destination wallet address for the type of Crypto Asset being sent. There are different wallet addresses for each type of Crypto Asset. For example, if you are sending Bitcoin, you must use a destination wallet address designated for Bitcoin—you cannot use a destination wallet address designated for Bitcoin Cash, Ethereum or any other Crypto Asset. Further, if you are sending PYUSD, you must (1) select the PYUSD Supported Blockchain that you wish to utilize and (2) use a destination wallet address designated for that PYUSD Supported Blockchain. Note that the PYUSD Supported Blockchain used for sending need not be the same as that used to previously receive any of your PYUSD. Using the wrong destination wallet address type will result in the transmitted Crypto Asset being irretrievably lost. PayPal is not responsible for losses or other damages resulting from the use of the wrong destination wallet address type.
+
+Once you submit your transfer, the transfer will remain unconfirmed and pending until the cryptocurrency network confirms the transfer. You can read more about network confirmations, including the number of confirmations required for PayPal to reflect a transaction as complete in the PayPal Help Center. If your transaction is not submitted to the cryptocurrency network for confirmation, we will notify you. Even when a transfer is unconfirmed and pending, the transfer is irreversible. PayPal does not own or control the cryptocurrency networks, and PayPal makes no guarantee that an external Crypto Asset transfer will be confirmed by the network. At the time your transaction is reflected as “confirmed” by PayPal, your recipient’s wallet provider may still require additional confirmations by the cryptocurrency network before reflecting the transfer.
+
+You will be charged a network fee in order to send Crypto Assets to an external digital wallet. If the amount of Crypto Assets in your Cryptocurrencies Hub is less than the applicable network fee, you will not be able to transfer your Crypto Assets. Information on network fees can be found in the Information on Fees and Pricing section below. For Consumer Cryptocurrencies Hub transfers, if the recipient external wallet address you provide is for a Venmo account, we will process your transfer “off-chain” rather than through the cryptocurrency network, and you will not be charged a network fee.
+
+Using Supported External Cryptocurrency Wallets
+The use of External Cryptocurrency Wallets is not yet supported for Business Cryptocurrency Hubs. This section applies only if you are using a Consumer Cryptocurrencies Hub.
+
+Buying and Sending to Supported External Cryptocurrency Wallets
+
+When using a supported external cryptocurrency wallet (“Supported Wallet”), you may see a button that allows you to log into your PayPal account to purchase Crypto Assets in your Consumer Cryptocurrencies Hub and/or send cryptocurrencies to the Supported Wallet in a single transaction (“Buy and Send Transaction”). This feature is only available for Supported Wallets and for some Crypto Assets, which may not include all the Crypto Assets in your Consumer Cryptocurrencies Hub or in a Supported Wallet. The Supported Wallet will provide the wallet address to which PayPal will send the purchased Crypto Assets. You should carefully confirm that address. PayPal is not responsible or liable for any losses you may incur if we receive incorrect wallet information, or for any other aspect of the performance of your Supported Wallet.
+
+Our terms for Buying Crypto Assets and External Transfers apply to these transactions, EXCEPT that if PayPal is unable to submit your transfer to the cryptocurrency network due to issues with the cryptocurrency network, our ability to interface with our Service Provider(s), system downtime, timing out of the transaction or other similar technical reasons, we will reverse your Crypto Asset purchase and return the funds to you.
+
+When you choose to purchase Crypto Assets to send in a single transaction to a supported external cryptocurrency wallet, you will also be required to purchase Crypto Assets to cover the network fee of the external transfer. Please see the Information on Fees and Pricing section for more information on these fees. PayPal will also charge you a fee in U.S. Dollars for each transaction. See here for our fees for this service.
+
+Sending and Selling Out of Supported External Cryptocurrency Wallets
+
+When using a Supported Wallet, you also may see a button that allows you to send Crypto Assets from the Supported Wallet to your Consumer Cryptocurrencies Hub and sell those Crypto Assets in a single transaction (a “Send and Sell Transaction”). This feature is only available for Supported Wallets and for some Crypto Assets, which may not include all the Crypto Assets in your Consumer Cryptocurrencies Hub, or held in a Supported Wallet. If you engage in a Send and Sell Transaction through a Supported Wallet, once the Crypto Assets are received and sold via your Consumer Cryptocurrencies Hub, we will transfer the proceeds (less any fees) to your Balance Account.
+
+To initiate a Send and Sell Transaction, you must first navigate to the Supported Wallet where you hold the Crypto Assets that you would like to send to your Consumer Cryptocurrencies Hub and sell. Within your Supported Wallet, you will initiate a Send and Sell Transaction specifying the type and amount of Crypto Assets that you would like to send to your Consumer Cryptocurrencies Hub for sale. By selecting the PayPal button, you authorize us to provide a wallet address associated with your Consumer Cryptocurrencies Hub to the Supported Wallet as the destination for the transfer of the Crypto Assets. Your Supported Wallet is ultimately responsible for sending the Crypto Assets to the provided destination wallet address. You represent and warrant that you own all right, title, and interest in and to the Crypto Assets and have the authority to sell them.
+
+Once you select the PayPal button, you will be prompted to sign-in to your Consumer Cryptocurrencies Hub. We will display the amount of Crypto Assets you are selling, the address of the Supported Wallet from which you are transferring the Crypto Assets, the estimated delivery time, the estimated amount of transaction fees, and the estimated amount of proceeds that you will receive in your Balance Account. The disclosed amount of proceeds that you will receive is an estimate and will not be the final amount of proceeds that you will receive in your Balance Account from the sale of Crypto Assets from your third-party wallet. This is because Crypto Assets are inherently volatile, and we will not be able to sell the Crypto Assets until they are received in your Consumer Cryptocurrencies Hub and your sale is executed. Further, because fluctuations in the value of the Crypto Assets you are selling may affect the U.S. dollar value of the proceeds, those value fluctuations may also affect the amount of the sale fee you will be charged. In addition, when you choose to engage in a Send and Sell Transaction, your third-party wallet will deduct from your Crypto Assets the network fee to cover the external transfer. Please read the RISK DISCLOSURES for more information.
+
+Once you confirm the transaction, we will execute your sale with our Service Provider after receiving the Crypto Assets from your Supported Wallet in your Consumer Cryptocurrencies Hub. Proceeds of the sale will be delivered to your Balance Account, less any applicable fees and subject to any holds or limitations placed on your Balance Account.
+
+Our other terms for Selling Crypto Assets also apply to these transactions. Please see the Information on Fees and Pricing section for more information on applicable fees. PayPal will charge you a fee in U.S. dollars for each transaction. See here for our fees for this service.
+
+We are not responsible for your Supported Wallet or its performance.
+
+Receiving Crypto Assets
+You can use your Cryptocurrencies Hub to receive Crypto Assets from an external digital asset wallet you control or that is owned by any other person you know. If you are using a Consumer Cryptocurrencies Hub, you may also receive Crypto Assets from another Consumer Cryptocurrencies Hub. You cannot access any Crypto Assets that PayPal does not support. If you attempt to receive any Crypto Assets that PayPal does not support, they will be irretrievably lost and PayPal is not responsible or liable to you for any losses or damages that arise.
+
+If you are using a Consumer Cryptocurrencies Hub, other Consumer Cryptocurrencies Hubs can send you Crypto Assets using your username, phone number or email address. Internal transfers to and from Business Cryptocurrencies Hubs are not currently supported. In order to receive Crypto Assets from an external digital asset wallet, the sender will need to use your wallet address for the type of Crypto Asset being sent to you. You have different wallet addresses for each type of Crypto Asset and different wallet addresses for PYUSD depending on the PYUSD Supported Blockchain you wish to utilize. You can get your wallet address for each type of Crypto Asset from your Cryptocurrencies Hub. For example, if you are receiving Bitcoin, you must use the wallet address designated for Bitcoin—you cannot use the wallet address designated for Bitcoin Cash, Ethereum or any other Crypto Asset. Further, if you are receiving PYUSD, you must use the wallet address designated for the appropriate PYUSD Supported Blockchain that you wish to utilize. Using the wrong wallet address will result in the transmitted Crypto Asset being irretrievably lost. PayPal is not responsible for losses or other damages resulting from the use of the wrong wallet address.
+
+When you or another person sends Crypto Assets to your Cryptocurrencies Hub from an external cryptocurrency wallet, the person sending the Crypto Assets is solely responsible for properly executing the transfer on the cryptocurrency network. For example, the person sending the Crypto Assets must enter the correct destination wallet address and pay a sufficient network fee so that the transaction will be successfully recorded. If the sender does not pay a high enough network fee, the transfer may be delayed or may not be confirmed. PayPal does not own or control the cryptocurrency network and will not treat a transfer of Crypto Assets as complete until the transfer is confirmed by the network. PayPal cannot help you to address any delay or loss as the result of the sender paying an insufficient fee or the transfer otherwise not being confirmed by the network.
+
+Crypto Assets sent to you will be reflected as unconfirmed and pending until the cryptocurrency’s network can confirm and complete the transfer. You can read more information on network confirmations, and the number of confirmations required in order for PayPal to reflect a transaction as complete in our educational content and the PayPal Help Center.
+
+PayPal will review Crypto Assets sent to you, including for risk holds, sanctions screening, and other compliance and risk considerations. Crypto Assets will not be credited to you until they pass PayPal’s risk and compliance review. Crypto Assets credited to your Cryptocurrencies Hub can still become subject to subsequent holds or claims, including holds that limit your ability to transfer or sell Crypto Assets, or transfer or withdraw the proceeds from the sale of the Crypto Assets.
+
+Information on Fees and Pricing
+By using your Cryptocurrencies Hub, you agree to pay all applicable exchange rates (including spread) and fees. You will be charged certain fees when you buy, sell, convert, and transfer Crypto Assets.
+
+Information on pricing and fees for Consumer Cryptocurrencies Hub transactions can be found on the PayPal Fees page, and the PayPal Balance Long Form Disclosure. PayPal does not charge a fee (but does charge a spread) to sell Crypto Assets when you Checkout with Crypto.
+
+Information on pricing and fees for Business Cryptocurrencies Hub transactions can be found on the PayPal Merchant Fees page.
+
+When you buy, sell, or convert Crypto Assets (other than when you buy or sell PYUSD in exchange for U.S. dollars), PayPal will charge a spread (or margin) between the market price we receive from our Service Provider and the price of the Crypto Assets displayed to you. This spread applies when you buy or sell Crypto Assets (other than PYUSD) in exchange for U.S. dollars or when you convert between PYUSD and another Crypto Asset. The amount that PayPal makes and the exchange rate provided may be different than what you would pay on other cryptocurrency platforms.
+
+At the time you buy, sell, or convert Crypto Assets (other than when you buy or sell PYUSD in exchange for U.S. dollars), we will disclose to you the applicable exchange rate and the amount of fees that you will be charged for that transaction. The exchange rate will include an estimated spread of one percent (1.00%), provided, however, that the actual spread may be higher or lower based on market conditions. We will not separately calculate or disclose the spread we earn on each transaction.
+
+If you use a linked bank account or debit card as a funding source to buy Crypto Assets, your bank may charge you its own fees, including overdraft fees or insufficient fund fees, if applicable. PayPal is not responsible for any fees that may be charged to you by your bank.
+
+As noted above, if you Checkout with Crypto to pay for a purchase in a foreign currency, we also will earn money on the currency conversion from U.S. dollars to the foreign currency in your Balance Account.
+
+Network Fees
+When you transfer Crypto Assets to an external wallet address, you will be charged a fee that is designed to cover the cost of network fees. We will disclose this fee to you before your transfer. Cryptocurrency networks need fees in order to process transfers of Crypto Assets that are broadcast to the network. These fees are often referred to as “network fees” or “gas fees.” The amount of network fees required to process a transfer fluctuates constantly. The fee we will charge you is our estimate of the fee the network will take to process your transfer. The fee that you will pay to us may be higher or lower than the actual fee paid to the network, based on market conditions. If the actual network fee is higher, that amount is PayPal’s or its Service Provider’s responsibility. If the actual network fee is lower, PayPal or its Service Provider will retain the difference. PayPal does not charge network fees for transfers between Cryptocurrencies Hubs on PayPal, or transfers between PayPal and Venmo Cryptocurrencies Hubs.
+
+Reversals/Cancellations
+Except for Recurring Buys as set forth below, you cannot reverse, cancel or change any Crypto Asset transaction once it has been authorized. You can pause or cancel your authorization of a Recurring Buy until 11:59 p.m. EST on the day prior to the execution date of the Recurring Buy. If your payment method has insufficient funds, you reverse the payment transaction, or we otherwise do not receive payment for your transaction, you authorize us, in our sole discretion, to take any of the Actions We May Take for Insufficient Payment for Crypto Assets.
+
+We also reserve the right to not process, to cancel or, to the extent possible, to reverse a transaction, if (i) we believe that the transaction relates to any Restricted Activities, (ii) we have placed a hold, limitation or reserve on your PayPal account (including, for Consumer Cryptocurrencies Hub transactions, your Balance Account), (iii) we have suspended your Cryptocurrencies Hub, (iv) we believe the transaction involves money laundering, terrorist financing, fraud or any other type of crime, (v) in response to a subpoena, court order, or other government order or (vi) we believe, in our sole discretion, processing the transaction would expose PayPal, our service providers, or other PayPal users to excessive risk. In such instances, regardless of the reason we have blocked, cancelled or reversed your transaction and regardless of the reason we have lifted or reversed that restriction, we do not guarantee you will be able to reinitiate your transaction at the same price or on the same terms as the transaction that we did not process, or that was cancelled or reversed.
+
+Risk Disclosures
+While we will try to complete purchases, sales and transfers of Crypto Assets that you authorize and that comply with these Cryptocurrency Terms, we do not guarantee your ability to buy, sell, convert, or transfer Crypto Assets. Crypto Assets and their underlying cryptocurrency networks are complex developing technologies that may be subject to delays, halts or go offline as a result of errors, forks, attacks or other unforeseeable reasons. The cost, speed, and availability of transacting on cryptocurrency networks are subject to significant variability. Your ability to buy, sell, convert, or transfer Crypto Assets may be delayed or unavailable due to the availability of the Crypto Assets or funds from your funding source, interruptions, delays or errors of the relevant cryptocurrency network, our ability to interface with our service provider(s), a legally permitted delay by Paxos in the redemption, sale, or minting of PYUSD, system downtime, limitations or suspensions we impose on your Cryptocurrencies Hub in our sole discretion, for required safety, security, or legal reasons, or for other reasons outside PayPal’s or any service provider’s control. We are not liable to you if we or our Service Provider is unable or delayed in executing or settling your transactions. If Paxos is unable or delayed in executing and settling PYUSD transactions for any reason, PayPal reserves the right to defer or cancel your PYUSD order.
+
+Your access to the Cryptocurrencies Hub or your ability to hold, buy, sell, convert, or transfer Crypto Assets, including the price for buying, selling, converting, and transferring can also change or be limited by extraordinary circumstances outside our control (for example, fire, flood, accident, riots, war, terrorist act, epidemic, pandemic, quarantine, civil commotion, breakdown of communication facilities, breakdown of web host, breakdown of internet service provider, natural catastrophes, governmental acts or omissions, changes in laws or regulations, national strikes, fire, explosion, generalized lack of availability of raw materials or energy, or extreme financial market conditions), which we either did not reasonably foresee or that happened despite our reasonable precautions (“Extraordinary Circumstances”). PayPal will not be liable to you for limits, suspension, delay, or change to your Cryptocurrencies Hub or your inability to transact in Crypto Assets because of Extraordinary Circumstances, including any changes in the buy or sell price of Crypto Assets because of Extraordinary Circumstances.
+
+PayPal may buy and sell cryptocurrency through Service Providers acting as market makers providing liquidity (“Liquidity Provider”). A Liquidity Provider may in turn buy and sell cryptocurrency through an affiliated cryptocurrency exchange, provided, however, that (a) the Liquidity Provider trading will always be designed to be revenue-neutral over the long term (i.e. the Liquidity Provider will not profit from these transactions as a whole), and (b) the Liquidity Provider will not use earlier or different access to information about exchange trading from what is available to other participants on the cryptocurrency exchange.
+
+Cryptocurrency assets in a given address are controlled by the private key of the holder of the address. If the private key is compromised or lost, the cryptocurrency assets in that address may be stolen or lost and otherwise unrecoverable.
+
+Crypto Assets, including PYUSD, are not insured by FDIC, SIPC or any other public or private insurer, including against cyber theft or theft by other means. Cryptocurrency activity is not a regulated activity in many U.S. states and territories. The value of most Crypto Assets can be extremely volatile and unpredictable, which can result in significant losses in a short time. Buying and selling Crypto Assets is inherently risky, and you should consider the risks before deciding to buy or sell Crypto Assets, including those provided in our STATE DISCLOSURES section below.
+
+PYUSD is issued by Paxos. Please refer to the Paxos Terms for additional terms and conditions related to PYUSD, including how PYUSD is fully backed by an equivalent amount of U.S. dollar denominated bank deposits, U.S. Treasuries, and U.S. Treasury reverse repurchase agreements and how Paxos maintains custody of the assets backing PYUSD, and your ability to redeem PYUSD at a price of $ 1.00 U.S. dollar directly with Paxos. You can also access the U.S. dollar value of your PYUSD by selling the PYUSD to PayPal at a price of $1.00 U.S. dollar per one PYUSD token, provided that we can concurrently sell or redeem that PYUSD with Paxos at the same price of $1.00 U.S. dollar per one PYUSD token. PayPal does not guarantee Paxos’s performance or obligations.
+
+While PYUSD is designed not to fluctuate in value, the price of PYUSD may be higher or lower than $1.00 U.S. dollar on other exchanges.
+
+Market Data & Educational Content
+Within your Cryptocurrencies Hub, you'll find educational content on cryptocurrency generally, the cryptocurrency market, tax implications of buying and selling cryptocurrency, and the particular Crypto Assets available to buy, sell, convert, and transfer through the Cryptocurrencies Hub. The educational information available through your Cryptocurrencies Hub is provided as general educational background. The information is not tailored to individual PayPal users and therefore, is not provided based on your individual financial, investment, tax, legal or educational needs and circumstances. The information is not investment, financial, tax, legal or trading advice. The information may include content provided by third parties; we take no responsibility for third-party educational materials.
+
+Within the Cryptocurrencies Hub you will also find information on the market price of the Crypto Assets based on the data shared with us by our Service Provider. The market price for Crypto Assets may be different on different marketplaces. The market data that we provide to you is from an external source that we believe to be reliable. However, we do not control the external sources or the data they provide, and we do not always independently verify that the information provided is complete and accurate. Therefore, we cannot and do not guarantee that the information is accurate, complete, timely, or suitable for use, and it may be inaccurate, incomplete or out of date. You should verify all information that you receive before relying upon it, and we have no liability to you if you make decisions based on the market information that you receive from or through us.
+
+All market data and educational content, including crypto price alerts, are provided “as-is” and without any representation or warranty, whether express, implied or statutory. PayPal shall have no liability and specifically disclaims all warranties, express or implied, for any market data or educational content on the Cryptocurrencies Hub, or any use thereof.
+
+No Investment or Tax Advice
+Neither PayPal nor its service providers (including, without limitation, our Service Provider(s)) provide investment or tax advice to you. You are solely responsible for all decisions to buy, sell, convert, or transfer Crypto Assets through your Cryptocurrencies Hub, including understanding any tax obligations that you may incur. We do not manage your Cryptocurrencies Hub on your behalf. Our sole responsibility is to execute transactions and hold Crypto Assets on your behalf through our Service Provider(s), in all cases based on your instructions and these Cryptocurrency Terms.
+
+While PayPal may make certain educational content available, including crypto price alerts, it is provided for general background information only and is not specifically tailored to you and your individual needs and circumstances and should not be construed as a recommendation. You must determine if any particular purchase or sale of Crypto Assets is appropriate for you, based on your own investment objectives, financial circumstances and risk tolerance, and make your own, independent transaction decisions.
+
+Crypto Asset Software Protocols and Forks
+The technology that creates cryptocurrency, including your Crypto Assets, is typically governed by underlying software protocols that are open source, which means that anyone can use, copy, modify or distribute them. PayPal does not currently own or control the underlying software protocols and these software protocols can change suddenly and unexpectedly in a way that has a significant impact on your Crypto Assets. Because we don't control this technology, PayPal is not responsible for the operation of the underlying software protocols and cannot guarantee the continued functionality, security or availability of any Crypto Asset. Without assuming any responsibility, PayPal, however, will only support those assets for which PayPal has performed the necessary due diligence.
+
+Software protocols governing a Crypto Asset can experience sudden changes in operating rules that are outside PayPal's control, called "forks." A fork can have a material change on the operation, functionality, value or even name of a Crypto Asset. A fork may result in multiple versions of a Crypto Asset, and each version could have a very different, and possibly lower, value than your Crypto Asset before the fork.
+
+PayPal may or may not support the fork of a Crypto Asset, whether or not the forked Crypto Asset holds any value. In the event of a fork, PayPal may temporarily suspend trading of Crypto Assets in order to determine whether or not it will support any particular fork. In the event of a fork, PayPal will evaluate the feasibility of supporting the fork and determine whether and to what extent any new assets resulting from the fork may be supported and/or allocated. This evaluation will take into account factors such as, but not limited to, the technical issues around supporting a fork, Service Provider dependencies, and legal and regulatory considerations.
+
+If PayPal supports the fork of a Crypto Asset, and the fork is followed by an airdrop of new cryptocurrency that is credited to your PayPal account, your receipt of that cryptocurrency will generally be taxable.
+
+You agree that PayPal is not responsible or liable to you for any losses or damages, including lost profits, which may occur as the result of a change in the underlying software protocol of a Crypto Asset, PayPal's determination to support or not support any particular fork or modified software protocol, and any interruption of trading while PayPal makes such determination. If PayPal determines not to support a fork or modified software protocol, you may never get access to the assets governed by that fork or software protocol.
+
+Transaction Limits
+From time to time, we may, in our discretion, impose limits on the amount of Crypto Assets you can buy, sell (including to Checkout with Crypto), convert, or transfer, which may include limits on the cash value or number of transactions in which you can engage over particular periods of time. Standard transaction limits are as follows:
+
+Weekly purchase limit: $100,000.00 U.S. dollars
+Weekly send limit: Crypto Assets totaling the equivalent of $25,000.00 U.S. dollars
+Minimum Crypto Asset purchase amount: $1.00 U.S. dollar
+Minimum Crypto Asset sale amount: $1.00 U.S. dollar
+Minimum amount to convert between PYUSD and another Crypto Asset: $2.00 U.S. dollars
+Minimum “send” transfer amounts to other PayPal Cryptocurrencies Hubs: Crypto Assets totaling the equivalent of $0.01 U.S. dollar
+Minimum “send” transfer amount to wallet addresses outside of PayPal:
+BCH: 0.01 BCH
+BTC: 0.001 BTC
+ETH: 0.01 ETH
+LTC: 0.01 LTC
+SOL: 0.01 SOL
+LINK: 1 LINK
+PYUSD (Ethereum): 10 PYUSD
+PYUSD (Solana): 1 PYUSD
+PYUSD (Arbitrum): 1 PYUSD
+PYUSD (Stellar): 1 PYUSD
+We may change the above limits for safety, security or other lawful reasons.
+
+Transaction History and Account Statements
+You can view your Cryptocurrencies Hub transaction history by logging into your PayPal account. Balance Account statements and Business Account statements will include information on purchases of Crypto Assets, the proceeds from the sale of Crypto Assets, and the fees you paid in connection with Crypto Asset transactions. In addition, Balance Account statements will include information on purchases made using Checkout with Crypto.
+
+Your account statement may not include all of the details regarding your purchase, sale and transfer of Crypto Assets that are available in your transaction history.
+
+Restricted Activities
+In addition to the other Restricted Activities identified in your PayPal Account User Agreement and the PayPal Balance Terms and Conditions, you must not engage in the following Restricted Activities:
+
+Breach these Cryptocurrency Terms;
+Use what we reasonably believe to be fraudulent funds in order to buy Crypto Assets;
+Initiate any transaction that is not intended to be completed, or is intended to abuse, manipulate, mislead or default other participants in the Crypto Asset market;
+Send or receive Crypto Assets for any unlawful purpose or in relation to any unlawful activity, including in violation of any applicable sanctions regime;
+Engage in any activity that operates to defraud PayPal, other PayPal users, or any other person; or
+Control an account that is linked to another account that has engaged in any of these Restricted Activities.
+Actions We May Take if You Engage in Any Restricted Activities
+If we believe that you've engaged in any Restricted Activities, we may take a number of actions to protect PayPal, its customers and others at any time in our sole discretion. In addition to the remedies identified in your PayPal Account User Agreement and PayPal Balance Terms and Conditions, the actions we may take include, but are not limited to, limiting your access to or use of the Cryptocurrencies Hub, and/or suspending your Cryptocurrencies Hub, immediately and without penalty to us, including limiting your ability to buy, sell, convert, or transfer Crypto Assets. You authorize PayPal to seize your Crypto Assets if we believe a transaction relating to those Crypto Assets involves money laundering, terrorist financing, fraud or any other type of crime.
+
+If we close your Cryptocurrencies Hub, or terminate your use of the PayPal services for any reason, we'll provide you with notice of our actions. You can find more information on what happens if we close your Cryptocurrencies Hub here. If you believe we have taken any action in error, please contact PayPal customer service or call: (888) 221-1161. You can also write to: PayPal, Attn: Cryptocurrency Support, P.O. Box 45950, Omaha, NE 68145-0950.
+
+You are responsible for all reversals, chargebacks, claims, fees, fines, penalties and other liability incurred by PayPal, any PayPal customer, or a third party caused by or arising out of your breach of these Cryptocurrency Terms, and/or your use of the PayPal services.
+
+Taxes
+There may be tax consequences as a result of actions taken with respect to your Cryptocurrencies Hub, including but not limited to when you sell your Crypto Assets, when you convert from one type of Crypto Asset to another, when you transfer Crypto Assets, when you receive PYUSD Rewards, or from the receipt of new cryptocurrency through an airdrop following a fork that PayPal supports. You should consult your tax professional regarding your specific situation and your reporting of Crypto Assets transactions.
+
+PayPal will provide you any required IRS forms 1099 with respect to the sale of any Crypto Assets on your Cryptocurrencies Hub (or the receipt of new cryptocurrency resulting from a fork that PayPal supports) for your tax records, and we will report any necessary form 1099 filings to the IRS. As permitted by the IRS, the forms 1099 provided to you will show gross proceeds only, and will not reflect any of your gains or losses on your Crypto Assets transactions. You can access your transaction history and year-end gain/loss statement through your PayPal account, to use for reference when preparing your tax filings. The information provided by PayPal is not intended to be and should not be construed as tax advice.
+
+Although not reported on your forms 1099, your history and statements will include the cost basis of the Crypto Assets you purchased via your Cryptocurrencies Hub, and the gain or loss which occurred upon the sale of those Crypto Assets. PayPal will use highest-in-first-out (“HIFO”) method to calculate gains and losses when you sell a Crypto Asset purchased via your Cryptocurrencies Hub. This means that the gains and loss calculation will attribute Crypto Assets sold in order from the highest to lowest cost basis value (i.e., based on the acquisition value of Crypto Assets that you purchased through your Cryptocurrencies Hub). We will not be able to calculate gains or losses on Crypto Assets that have been transferred to your Cryptocurrencies Hub, including Crypto Assets that have been transferred from another PayPal or Venmo account. We do not have access to and will not provide information regarding the cost basis in Crypto Assets that are transferred to your Cryptocurrencies Hub. You are responsible for maintaining your own cost basis records. You should consult your tax advisor regarding which cost basis method is appropriate for your specific situation. PayPal is not liable for any errors or omissions in any tax information (such as cost basis) that PayPal is not required to report to the IRS on an applicable form 1099.
+
+Liability for Unauthorized Transactions, Errors and Support
+PayPal will protect you from unauthorized activity involving the purchase or sale of Crypto Assets in your Cryptocurrencies Hub, including for unauthorized sales used to Checkout with Crypto. When this protection applies, PayPal will cover you for the full amount of unauthorized purchase or sale activity, as long as you cooperate with us, and follow the procedures described below.
+
+PayPal also works to prevent unauthorized transfers of Crypto Assets, and will reimburse you for unauthorized transfers out of your Cryptocurrencies Hub in the form and quantity of the Crypto Asset that was removed from your account, up to a maximum lifetime cap of an equivalent of $50,000.00 U.S. dollars over the life of the accountholder (based on the U.S. Dollar value of the Crypto Asset at the time of the unauthorized transaction), as long as you cooperate with us, and follow the procedures described below.
+
+Any reimbursement you receive from PayPal represents a warranty of our own services. PayPal does not provide insurance and does not insure you against loss of your crypto assets.
+
+What is an Unauthorized Transaction
+
+An “Unauthorized Transaction” occurs when (i) Crypto Assets are purchased within your Cryptocurrencies Hub that you did not authorize and do not benefit you or (ii) Crypto Assets from your Cryptocurrencies Hub are sold or transferred in transactions that you did not authorize and do not benefit you. For example, if someone steals the password to your PayPal account, uses the password to access your Cryptocurrencies Hub, and sells your Crypto Assets, an Unauthorized Transaction has occurred.
+
+What is not considered an Unauthorized Transaction
+
+It is NOT an Unauthorized Transaction if you grant authority to someone to use your Cryptocurrencies Hub (by giving them your PayPal account login information) and they exceed the authority you gave them. You are responsible for transactions made in this situation unless you have previously notified PayPal that you no longer authorize transfers by that individual.
+
+Requirements for Protection for an Unauthorized Transaction
+
+PayPal may limit your ability to sell or send Crypto Assets that you claim were purchased or sent to you without your authorization. If PayPal has not limited your ability to sell or transfer these Crypto Assets, you still may not sell or transfer those unauthorized Crypto Assets before you report the unauthorized purchase to PayPal or while PayPal investigates your claim.
+
+If you sell or transfer any Crypto Assets that you claim you did not purchase (including using such Crypto Assets to Checkout with Crypto), PayPal will deny your claim for those sold or transferred Crypto Assets. You will not be able to recover any funds used to purchase the sold or transferred Crypto Assets. We will continue to address your claim for any disputed Crypto Assets that you did not sell or transfer.
+
+Reporting an Unauthorized Transaction
+
+If you believe there has been an unauthorized purchase, sale, or transfer of Crypto Assets in your Cryptocurrencies Hub, please contact PayPal customer service immediately or call: (888) 221-1161 or write: PayPal, Attn: Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950.
+
+Tell us AT ONCE if you believe that a purchase, sale or transfer of Crypto Assets has been made without your permission using your login information or by other means. You could lose all the Crypto Assets in your Cryptocurrencies Hub. If you tell us within 60 days after we provide you your account statements showing purchases, sales or transfers you did not make, we will reimburse you for the full amount of the reported Unauthorized Transactions, provided that for Unauthorized Transactions that are transfers, you will be eligible for reimbursement in the form and quantity of the Crypto Asset that was removed from your account, up to the lifetime cap of the equivalent of $50,000.00 USD, (based on the U.S. Dollar value of the Crypto Asset at the time of the unauthorized transaction).
+
+Also, if your account statement shows purchases, sales, or transfers of Crypto Assets that you did not make, including those made with your PayPal login information or by other means, tell us at once. If you do not tell us within 60 days after we provided the statement to you, you may not get back any Crypto Assets or money you lost after the 60 days if we can prove that we could have stopped someone from taking the Crypto Assets if you had told us in time. If a good reason (such as a long trip or a hospital stay) kept you from telling us, we may extend the time periods.
+
+Error Resolution
+
+What is an Error:
+
+An “Error” means the following:
+
+We either take an incorrect amount of Crypto Assets from your Cryptocurrencies Hub or place an incorrect amount into your Cryptocurrencies Hub.
+You are charged an incorrect amount of money when you purchase Crypto Assets, or you are credited an incorrect amount of money when you sell Crypto Assets (including for Checkout with Crypto).
+A transaction related to your Crypto Assets is missing from or not properly identified in your account statement.
+We make a computational or mathematical error related to your Cryptocurrencies Hub.
+You request additional information or clarification concerning a transfer to or from your Cryptocurrencies Hub, including a request you make to determine whether an error has occurred.
+What is not considered an Error
+
+You grant authority to someone to use your Cryptocurrencies Hub (by giving them your PayPal account login information) and they exceed the authority you gave them. You are responsible for transactions made in this situation unless you have previously notified PayPal that you no longer authorize transfers by that individual.
+You enter the incorrect recipient information when transferring Crypto Assets, including the incorrect wallet address type.
+Your recipient fails to receive Crypto Assets you attempt to transfer because of a failure or delay of the relevant cryptocurrency network or an action by any institution where your recipient holds a cryptocurrency wallet or account.
+You fail to receive Crypto Assets transferred to you because of a failure or delay of the relevant cryptocurrency network or an action by the sender.
+You dispute the calculation of PYUSD Rewards during any period in which you had opted-in to the PYUSD Rewards Program.
+Other exclusions set forth in the errors section of the PayPal Balance Terms and Conditions or PayPal Account User Agreement.
+In case of Errors or questions about your Cryptocurrencies Hub
+
+If you believe there has been an error with respect to your Cryptocurrencies Hub, telephone us at (888) 221-1161, contact us through the PayPal Resolution Center; or write us at PayPal, Attn: Error Resolution Department, P.O. Box 45950, Omaha, NE 68145-0950.
+
+Notify us as soon as you can, if you think your statement or receipt is wrong or if you need more information about a transaction listed on the statement or receipt. We must hear from you no later than 60 days after we sent the FIRST statement on which the problem or error appeared.
+
+Tell us your name.
+Describe the error or the transaction you are unsure about and explain as clearly as you can why you believe it is an error or why you need more information.
+Tell us the dollar or Crypto Asset amount of the suspected error.
+If you tell us orally, we may require that you send us your complaint or question in writing within 10 Business Days.
+
+We will determine whether an error occurred within 45 days after we hear from you and will correct any error promptly. If we ask you to put your complaint or question in writing and we do not receive it within 10 Business Days, we may not credit your account.
+
+For errors involving new Balance Accounts or Checkout with Crypto, we may take up to 90 days to investigate your complaint or question.
+
+We will tell you the results within 3 Business Days after completing our investigation. If we decide that there was no error, we will send you a written explanation. You may ask for copies of the documents that we used in our investigation.
+
+Processing Errors
+
+We will rectify any processing error that we discover. If the error results in:
+
+You receiving less than the correct amount of Crypto Assets or funds to which you were entitled, then we will credit your Cryptocurrencies Hub and/or Balance Account or Business Account for the difference between what you should have received and what you actually received.
+You receiving more than the correct amount of Crypto Assets or funds to which you were entitled, then we will debit your Balance Account or Business Account for the difference between what you actually received and what you should have received.
+Our not completing a transaction on time or in the correct amount, then we will be responsible to you for your losses or damages directly caused by this failure, unless:
+through no fault of ours, you did not have enough available Crypto Assets or funds to complete the transaction;
+our system was not working properly and you knew about the breakdown when you started the transaction;
+the transaction was not completed or delayed due to interruptions, delays, or errors of the relevant cryptocurrency network or an action or omission by someone other than PayPal or our service providers; or
+the error was due to extraordinary circumstances outside our control (such as fire, flood or loss of Internet connection), despite our reasonable precautions.
+Processing errors are not:
+
+Delays that result from PayPal applying holds or limitations we place on your Balance Account, or any holds, limitations, or reserves we place on your Business Account.
+Delays based on a payment review.
+Your errors in making a transaction (for example, mistyping an amount of Crypto Assets that you are sending or using the wrong destination wallet address type).
+Support
+
+If you have other questions or concerns regarding your Cryptocurrencies Hub, your Crypto Assets, our Service Provider(s), or any related transactions or account activity, please contact PayPal Customer Service or call: (888) 221-1161. You can also write to: PayPal, Attn: Cryptocurrency Support, P.O. Box 45950, Omaha, NE 68145-0950.
+
+Crypto Assets that you Receive in Error or as the Result of an Unauthorized Transaction
+
+PayPal may limit your ability to sell or send Crypto Assets that you claim you received in error. If PayPal has not limited your ability to sell or transfer these Crypto Assets, but you claim an error has caused you to receive Crypto Assets that you did not purchase or that were not intended to be sent to you, you still may not sell or transfer such Crypto Assets before you report the error to PayPal or while PayPal investigates your claim. If you sell or transfer any Crypto Assets that you claim you did not purchase, PayPal will deny your claim for those sold or transferred Crypto Assets.
+
+Even if you do not make a claim, if you receive Crypto Assets in error or as the result of an unauthorized transaction, we may remove those Crypto Assets from your Cryptocurrencies Hub. If you receive Crypto Assets in error or as the result of an Unauthorized Transaction and sell or transfer such Crypto Assets, we may recover from you up to the amount of any sale proceeds or the cash value of the Crypto Assets as of the time you received the Crypto Assets.
+
+If you sell or transfer any Crypto Assets for which you have received a refund (whether from PayPal or any other source such as your bank or card issuer), PayPal may recover from you up to the amount of any refund provided to you.
+
+Suspension and Closure of a Cryptocurrencies Hub
+PayPal may, in its sole discretion and without liability to you, not allow you to establish or access the Cryptocurrencies Hub or suspend, close or terminate your Cryptocurrencies Hub, or place a limitation on the type or amount of activities in which you can engage using your Cryptocurrencies Hub. This may occur if we are unable to verify your identity, you engage in Restricted Activities, pursuant to a court order or other legal process, you violate these Cryptocurrency Terms or another agreement between you and PayPal, we are no longer offering Cryptocurrencies Hubs in your state of residence, or our Service Providers are no longer supporting the Cryptocurrencies Hubs, among other reasons.
+
+Your Cryptocurrencies Hub will also be suspended or terminated if we suspend or terminate your Business Account or Balance Account pursuant to the PayPal User Agreement or PayPal Balance Terms and Conditions. If your Cryptocurrencies Hub is suspended, the Crypto Assets in your account may fluctuate in value and we are not liable for any losses you may incur as a result of those fluctuations.
+
+If we close your Cryptocurrencies Hub, and your account holds Crypto Assets, or if you receive Crypto Assets into an address previously associated with a Cryptocurrencies Hub that has been terminated, you authorize us, in our discretion and at any time, to liquidate the Crypto Assets in your account into U.S. dollars at the price that otherwise applies to the sale of Crypto Assets at that time, or another reasonable price determined by PayPal in its reasonable discretion. You understand that the value of Crypto Assets may rise or fall quickly and that we have no obligation to sell at a time that provides the best price for you. While PayPal will notify you that your account has been closed, regardless of how quickly we sell your Crypto Assets, we have no obligation to give you notice before we sell.
+
+If we liquidate your Crypto Assets, and you have a Balance Account or Business Account in good standing, we will credit any unrestricted funds to your Balance Account or Business Account, as applicable. Please note that there may be tax consequences from any gain or loss you incur if we liquidate your Crypto Assets.
+
+PayPal's Rights
+PayPal suspension and termination rights
+
+PayPal, in its sole discretion, reserves the right to suspend or terminate these Cryptocurrency Terms, access to or use of its websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf or some or all of the PayPal services.
+
+Security Interest
+
+Except where prohibited by law or regulation, as security for the performance of your obligations under these Cryptocurrency Terms, you grant to PayPal a lien on, and security interest in and to, your Crypto Assets.
+
+Amounts owed to PayPal
+
+If the balance in your Business Account or Balance Account (including your Cryptocurrencies Hub) becomes negative for any reason, that negative balance represents an amount that you owe to PayPal. In addition to any rights we have under the PayPal Balance Terms and Conditions and PayPal User Agreement, you authorize PayPal to sell your Crypto Assets and use the proceeds to pay a negative balance you owe to us in any PayPal account you own.
+
+If we sell your Crypto Asset to pay amounts you owe to us, we will value the Crypto Assets using the price that otherwise applies to the sale of Crypto Assets at that time, or another reasonable price determined by PayPal in its reasonable discretion. You understand that the value of most Crypto Assets may rise or fall quickly and that we have no obligation to sell at a time that provides the best price for you. We have no obligation to notify you before we sell your Crypto Assets.
+
+If any amounts you owe to us remain outstanding after we liquidate your Crypto Assets, you still owe the remaining amount to PayPal, and we may take any other action permitted under these Cryptocurrency Terms or your other agreements with PayPal to satisfy those owed amounts.
+
+No waiver
+
+Our failure to act with respect to a breach of any of your obligations under these Cryptocurrency Terms by you or others does not waive our right to act with respect to subsequent or similar breaches.
+
+No Other Encumbrances
+
+Other than our lien and security interest described above (which PayPal will take on or in your Crypto Assets only if doing so is not prohibited by law or regulation), PayPal will not pledge, hypothecate, assign or otherwise encumber your Crypto Assets.
+
+Crypto Held in Dormant or Closed Accounts
+If you receive Crypto Assets into an address associated with a Cryptocurrencies Hub that has been closed, or if you do not log into your PayPal account for two or more years and PayPal closes your PayPal account, you may CONTACT PAYPAL CUSTOMER SERVICE or call: (888) 221-1161 and request your Crypto Assets. PayPal may send your Crypto Assets to you (minus the applicable network fees) if we have verified the required identifying information that you have provided to us. If required, PayPal may escheat (send) your Crypto Assets, or the funds from liquidating those Crypto Assets in accordance with the Suspension and Account Closure of a Cryptocurrencies Hub section, to your state of residency. PayPal will determine your state of residency based on the state listed in the primary address for your PayPal account. If your address is unknown or registered in a foreign country, the Crypto Assets or funds from liquidation of those Crypto Assets will be escheated to the State of Delaware. Where required, PayPal will send you a notice prior to escheating any such assets. If you fail to respond to this notice, such assets will be escheated to the applicable state. If you would like to claim any escheated assets from the applicable state, please contact the applicable state’s unclaimed property administrator.
+
+State Disclosures
+California Disclosures
+The cryptocurrency services are not currently regulated by the California Department of Financial Protection and Innovation.
+Louisiana Disclosures
+Virtual currency is not legal tender in the United States, is not backed by the United States government, and accounts and value balances are not subject to FDIC or Securities Investor Protection Corporation (SIPC) protections.
+Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the value of virtual currency.
+Transactions in virtual currency may be irreversible, and accordingly, losses due to fraudulent or accidental transactions may not be recoverable.
+Some virtual currency transactions may be immediately effective when recorded on a public ledger, which is not necessarily the date or time that the customer initiates the transaction.
+The value of virtual currency may be derived from the continued willingness of market participants to exchange legal tender for virtual currency, which may result in the potential for permanent and total loss of value of a particular virtual currency if the market for the virtual currency declines or collapses for an extended period of time.
+Any surety bond retained by PayPal for the benefit of its customers may not be sufficient to cover all losses incurred by customers.
+Customers should perform research before purchasing or investing in virtual currency.
+Disclosure of your financial and account information to third parties is governed by these Cryptocurrency Terms and the Privacy Statement.
+Information about unauthorized transactions and error-resolution can be found in the Liability for Unauthorized Transactions and Errors section of these Cryptocurrency Terms.
+Information about stopping preauthorized payments is available in the Scheduling Recurring Buys of Crypto Assets section of these Cryptocurrency Terms.
+You have the right to receive an email receipt with respect to your purchase, sale, and transfer of Crypto Assets.
+New York Disclosures
+Virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to FDIC or Securities Investor Protection Corporation (SIPC) protections.
+Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange and value of virtual currency.
+Transactions in virtual currency may be irreversible, and accordingly, losses due to fraudulent or accidental transactions may not be recoverable.
+Some virtual currency transactions shall be deemed to be made when recorded on the public ledger, which is not necessarily the date or time the customer initiates the transaction.
+You have the right to receive a receipt with respect to your purchase, sale, and transfer of Crypto Assets.
+The value of virtual currency may be derived from the continued willingness of market participants to exchange fiat currency for virtual currency, which may result in the potential for permanent or total loss of value of a particular virtual currency should the market for that virtual currency disappear.
+There is no assurance that a person that accepts a virtual currency as payment today will continue to do so in the future.
+The volatility and unpredictability of the price of virtual currency relative to fiat currency may result in significant loss over a short period of time.
+The nature of virtual currency may lead to an increased risk of fraud or cyberattack.
+The nature of virtual currency means that any technological difficulties experienced by PayPal may prevent the access or use of a customer's virtual currency.
+Any bond or trust account maintained by PayPal for the benefit of its customers may not be sufficient to cover all losses incurred by customers.
+All legal documents must be served on PayPal’s registered agent, CT Corporation System; 28 Liberty Street, New York, New York 10005.
+Maine, Minnesota, North Dakota, Rhode Island, and Vermont Disclosures
+If you have a Consumer Cryptocurrencies Hub, information on fees and pricing can be found on the PayPal Fees Page. If you have a Business Cryptocurrencies Hub, information on fees and pricing can be found on the PayPal Merchant Fees page.
+Your Crypto Assets are not insured or guaranteed by the FDIC, Securities Investor Protection Corporation (SIPC) or any other public or private insurer, including against cyber theft or theft by other means.
+The transfer, purchase and sale of cryptocurrency is irrevocable. Once you authorize a transaction, you will not be able to revoke your authorization.
+Information about unauthorized transactions and error-resolution can be found in the Liability for Unauthorized Transactions and Errors section of these Cryptocurrency Terms.
+You may update your contact information through your PayPal account.
+The date or time when a transaction is executed, and your funding device is charged may differ from the date or time when you provided the instruction to authorize the transaction.
+Information about stopping preauthorized payments is available in the Scheduling Recurring Buys of Crypto Assets section of these Cryptocurrency Terms.
+You have the right to receive an email receipt with respect to your purchase, sale, and transfer of Crypto Assets.
+You have the right to at least thirty (30) days' prior notice of changes in our cryptocurrency fee schedules, to these terms and conditions, or to other policies applicable to your Cryptocurrencies Hub.
+Virtual currency is not money.
+Washington Disclosures
+If you have a Consumer Cryptocurrencies Hub, information on fees and pricing can be found on the PayPal Fees Page. If you have a Business Cryptocurrencies Hub, information on fees and pricing can be found on the PayPal Merchant Fees page.
+Your Crypto Assets are not insured or guaranteed by the FDIC, Securities Investor Protection Corporation (SIPC) or any other public or private insurer, including against cyber theft or theft by other means.
+The transfer, purchase and sale of cryptocurrency is irrevocable.
+Information about unauthorized transactions and error-resolution can be found in the Liability for Unauthorized Transactions and Errors section of these Cryptocurrency Terms.
+The nature of cryptocurrency may lead to an increased risk of fraud or cyber-attack and your cryptocurrency value may be irretrievably stolen.

@@ -1,0 +1,28 @@
+(function(_ds){var window=this;var Pua=async function(a){a.eventHandler.listen(a,"DropdownToggled",c=>{c=c.getBrowserEvent();let d;a.Ca({category:"devsiteLlmTools",action:((d=c.detail)==null?0:d.open)?"llm_tools_dropdown_open":"llm_tools_dropdown_close",label:"dropdown_toggle"})});a.eventHandler.listen(a,"DropdownItemClicked",c=>{c=c.getBrowserEvent();if(c=a.ea.get(c.detail.id))a.Ca({category:"devsiteLlmTools",action:c.gy,label:c.analyticsLabel}),c.action()});const b=Oua();b&&(a.m=b,a.Ca({category:"devsiteLlmTools",action:"llm_tools_button_impression"}))},
+Oua=function(){const a=_ds.B();a.pathname=`${a.pathname}.md.txt`;return _ds.Jf(a.href)},Qua=async function(a){if(!a.m)return null;a.yl=!0;try{const b=await fetch(_ds.qn(a.m.toString()).href);if(b)return await b.text()}catch(b){}finally{a.yl=!1}return null},Rua=async function(a){try{return a.ma||(a.ma=await Qua(a)),a.ma}catch(b){}return null},R4=function(a,b){a.dispatchEvent(new CustomEvent("devsite-show-custom-snackbar-msg",{detail:{msg:b,showClose:!1},bubbles:!0}))},Sua=async function(a){a.Ca({category:"devsiteLlmTools",
+action:"llm_tools_copy_markdown_click",label:"main_button"});const b=await Rua(a);b?await _ds.$x(b):R4(a,"Failed to copy page")},S4=class extends _ds.bB{constructor(){super(...arguments);this.yl=!1;this.eventHandler=new _ds.C;this.ma=null;this.m=void 0;this.items=[{id:"open-markdown",title:"View as Markdown",action:()=>{this.m?_ds.Vf(window,this.m,"_blank"):R4(this,"Failed to open markdown view.")},gy:"llm_tools_open_markdown_click",analyticsLabel:"dropdown_item"}];this.oa=this.items.map(a=>({id:a.id,
+title:a.title}));this.ea=new Map(this.items.map(a=>[a.id,a]))}Oa(){return this}connectedCallback(){super.connectedCallback();Pua(this)}disconnectedCallback(){super.disconnectedCallback();_ds.D(this.eventHandler)}render(){return(0,_ds.N)`
+      <div
+        class="devsite-llm-tools-container"
+        role="group"
+        aria-label="${"LLM Tools"}">
+        <div class="devsite-llm-tools-button-container">
+          <button
+            type="button"
+            class="button button-white devsite-llm-tools-button"
+            ?disabled="${this.yl}"
+            @click=${()=>{Sua(this)}}
+            aria-label="${"Copy page as markdown"}"
+            data-title="${"Copy Page"}">
+            <span class="material-icons" aria-hidden="true">content_copy</span>
+          </button>
+        </div>
+        <div class="devsite-llm-tools-dropdown-container">
+          <devsite-dropdown-list
+            .listItems="${this.oa}"
+            open-dropdown-aria-label="${"More LLM Tools options"}"
+            close-dropdown-aria-label="${"Close LLM Tools options menu"}">
+          </devsite-dropdown-list>
+        </div>
+      </div>
+    `}};S4.prototype.disconnectedCallback=S4.prototype.disconnectedCallback;_ds.v([_ds.H(),_ds.w("design:type",Object)],S4.prototype,"yl",void 0);try{customElements.define("devsite-llm-tools",S4)}catch(a){console.warn("Unrecognized DevSite custom element - DevsiteLlmTools",a)};})(_ds_www);

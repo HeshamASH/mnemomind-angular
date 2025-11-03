@@ -1,0 +1,4 @@
+You need to add this to the requirement.txt file to make google services work, I have added the code but didn't test it as it is a bit large to be built in Vercel in this large project
+
+
+google-api-python-client>=2.128.0

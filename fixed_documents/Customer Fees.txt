@@ -1,0 +1,1172 @@
+Last Updated: 21, April 2025
+ You can find details about changes to our rates and fees and when they will apply on our
+ Policy Updates Page. You can also view these changes by clicking ‘Legal’ at the bottom of any 
+web-page and then selecting ‘Policy Updates’.
+ Domestic
+ A transaction occurring when both the sender and receiver are registered with or identified by 
+PayPal as residents of the same market.
+ International
+ A transaction occurring when the sender and receiver are registered with or identified by PayPal as 
+residents of different markets. Certain markets are grouped together when calculating 
+international transaction rates. For a listing of our groupings, please access our 
+Market/Region
+ Grouping Table.
+ International euro (EUR) or Swedish krona (SEK) transactions where both the sender and the 
+receiver are registered with or identified by PayPal as resident in the European Economic Area 
+(EEA) are treated as domestic transactions for the purpose of applying fees.
+ Market Code Table
+ We may refer to two-letter market codes throughout our fee pages. For a complete listing of PayPal 
+market codes, please access our 
+Market Code Table.
+ Relevant Markets/Regions
+Rates published below apply to PayPal accounts of residents of the following markets/regions:
+ Markets/Regions list
+ Albania (AL) Democratic Republic of the 
+Congo (CD)
+ Maldives (MV) Saint Vincent & 
+Grenadines (VC)
+ Algeria (DZ) Dominica (DM) Mali (ML) Samoa (WS)
+ Andorra (AD) Djibouti (DJ) Marshall Islands (MH) Sao Tome & Principe (ST)
+ Angola (AO) Dominican Republic (DO) Monaco (MC) Saudi Arabia (SA)
+ Anguilla (AI) Ecuador (EC) Mauritania (MR) Senegal (SN)
+ Antigua & Barbuda 
+(AG)
+ Egypt (EG) Mauritius (MU) Serbia (RS)
+ Argentina (AR) El Salvador (SV) Moldova (MD) Seychelles (SC)
+ Armenia (AM) Eritrea (ER) Mongolia (MN) Sierra Leone (SL)
+Aruba (AW) Ethiopia (ET) Montenegro (ME) Singapore (SG)
+ Azerbaijan Republic 
+(AZ)
+ Falkland Islands (FK) Montserrat (MS) Solomon Islands (SB)
+ Bahamas (BS) Faroe Islands (FO) Morocco (MA) Somalia (SO)
+ Bahrain (BH) Federated States of 
+Micronesia (FM)
+ Mozambique (MZ) South Africa (ZA)
+ Bangladesh (BD) Fiji (FJ) Namibia (NA) Sri Lanka (LK)
+ Barbados (BB) French Polynesia (PF) Nauru (NR) Suriname (SR)
+ Belarus (BY) Gabon (GA) Nepal (NP) Svalbard & Jan Mayen 
+(SJ)
+ Belize (BZ) Gambia (GM) Netherlands Antilles 
+(AN)
+ Swaziland (SZ)
+Benin (BJ) Georgia (GE) New Caledonia (NC) Tajikistan (TJ)
+ Bermuda (BM) Greenland (GL) New Zealand (NZ) Tanzania (TZ)
+ Bhutan (BT) Grenada (GD) Nicaragua (NI) Togo (TG)
+ Bolivia (BO)
+ Guatemala (GT)
+ Niger (NE) Tonga (TO)
+ Guinea (GN)
+ Bosnia & 
+Herzegovina (BA)
+ Guinea-Bissau (GW) Nigeria (NG) Trinidad & Tobago (TT)
+ Botswana (BW) Guyana (GY) Niue (NU) Tunisia (TN)
+ British Virgin Islands 
+(VG)
+ Honduras (HN) Norfolk Island (NF) Turkmenistan (TM)
+ Brunei (BN) Iceland (IS) Oman (OM) Turks & Caicos Islands 
+(TC)
+Burkina Faso (BF) Indonesia (ID) Palau (PW) Tuvalu (TV)
+ Burundi (BI) Jamaica (JM) Panama (PA) Uganda (UG)
+ Cambodia (KH) Jordan (JO) Papua New Guinea 
+(PG)
+ Ukraine (UA)
+ Cameroon (CM) Kazakhstan (KZ) Paraguay (PY) United Arab Emirates 
+(AE)
+ Cape Verde (CV) Kenya (KE) Peru (PE) Uruguay (UY)
+ Cayman Islands (KY) Kiribati (KI) Philippines (PH) Vanuatu (VU)
+ Chad (TD) Kuwait (KW) Pitcairn Islands (PN) Venezuela (VE)
+ Chile (CL) Kyrgyzstan (KG) Qatar (QA) Wallis & Futuna Islands 
+(WF)
+Columbia (CO) Laos (LA) Republic of the Congo 
+(CG)
+ Yemen (YE)
+ Comoros (KM) Lesotho (LS) Rwanda (RW) Zambia (ZM)
+ Cook Islands (CK) Macedonia (MK) Saint Helena (SH) Zimbabwe (ZW)
+ Costa Rica (CR) Madagascar (MG) Saint Kitts & Nevis (KN)
+ Cote d’Ivoire (CI) Malawi (MW) Saint Lucia (LC)
+ Croatia (HR) Malaysia (MY) Saint Pierre & 
+Miquelon (PM)
+ It’s free to use PayPal to pay for a purchase or any other type of commercial transaction unless it 
+involves a currency conversion.
+ Buying with PayPal
+ Online or in-store
+Rate
+ No Fee (when no currency conversion is involved)
+ Selling with PayPal
+ When you buy or sell goods or services, make any other commercial type of transaction, send or 
+receive a charity donation or receive a payment when you “request money” using PayPal, we call 
+that a “commercial transaction”.
+ For the listings of selling rates, please visit our 
+PayPal Merchant Fees Page.
+ Sending and receiving payments
+ When you send funds (initiated from the “Friends and Family” tab of the “Send” flow) to, or receive 
+funds into your PayPal account from, friends and family without making an underlying commercial 
+transaction (that is, the payment is not for the purchase of goods or services or for making any 
+other commercial transaction), we call that a “personal transaction”.
+ Personal transactions are limited in availability and may not be available in some markets. If you 
+use your credit card as the payment method for a personal transaction, you may be charged a 
+cash-advance fee by your credit card company.
+ The rates relating to personal transactions are set out below.
+ Sending domestic personal transactions
+PayPal Balance or Bank 
+account
+ AD, HR, IS, & MC No Fee (if funded in EEA in EUR/SEK)
+ Where available No Fee (when no currency conversion is 
+involved)
+ Cards
+ AD, HR, IS, & MC No Fee (if funded in EEA in EUR/SEK)
+ Where available 3.4% + fixed fee
+ Payment Method Sender 
+Market/Region
+ Rate
+ Personal payments:
+ If you use another payment method to partially fund the payment, the fee will be pro-rated.
+ Sending international personal transactions
+ Payment 
+Method
+ Sender 
+Market/Region
+ Recipient Market/Region Rate
+PayPal Balance or 
+Bank account
+ AD, HR, IS, & MC
+ Canada, Europe I, Europe II, 
+Northern Europe, & US
+ 1.99 EUR
+ Any other market 3.99 EUR
+ AL, BA, MK, MD, ME, & UA
+ Canada, Europe I, Europe II, 
+Northern Europe, & US
+ 1.99 EUR
+ Any other market 3.99 EUR
+ NZ Any market 6.99 NZD
+ Any other market where 
+available
+ Any market 4.99 USD
+ Cards AD, HR, IS, & MC Canada, Europe I, Europe II, 
+Northern Europe, & US
+ 1.99 EUR
+ Payment 
+Method
+ Sender 
+Market/Region
+ Recipient Market/Region Rate
+Any other market 3.99 EUR
+ AL, BA, MK, MD, ME, & UA
+ Canada, Europe I, Europe II, 
+Northern Europe, & US
+ 1.99 EUR + 
+3.4% + fixed 
+fee
+ Any other market 3.99 EUR + 
+3.4% + fixed 
+fee
+ NZ Any market 6.99 NZD + 
+3.4% + fixed 
+fee
+ Any other market/region 
+where available
+ Any market 4.99 USD + 
+3.4% + fixed 
+fee
+ Payment 
+Method
+ Sender 
+Market/Region
+ Recipient Market/Region Rate
+Personal payments:
+ We will collect the fee from balance in the currency in which the fee is payable. To do this, we may need to convert
+ the fee amount from your sending balance into the currency in which the fee is payable, in which case the fees for “Currency
+ Conversions” also apply. If you use another payment method to partially fund the payment, the fee will be pro-rated.
+ Fixed fee for personal transactions (based on currency received)
+ Australian dollar 0.30 AUD
+ Brazilian real 0.60 BRL
+ Canadian dollar 0.30 CAD
+ Czech koruna 10.00 CZK
+ Danish krone 2.60 DKK
+ Euro 0.35 EUR
+ Currency Fee
+Hong Kong dollar 2.35 HKD
+ Hungarian forint 90.00 HUF
+ Israeli new shekel 1.20 ILS
+ Japanese yen 40.00 JPY
+ Malaysian ringgit 2.00 MYR
+ Mexican peso 4.00 MXN
+ Currency Fee
+ New Taiwan dollar 10.00 TWD
+ Currency Fee
+New Zealand dollar 0.45 NZD
+ Norwegian krone 2.80 NOK
+ Philippine peso 15.00 PHP
+ Polish zloty 1.35 PLN
+ Russian ruble 10.00 RUB
+ Singapore dollar 0.50 SGD
+ Swedish krona 3.25 SEK
+ Swiss franc 0.55 CHF
+ Currency Fee
+Thai baht 11.00 THB
+ UK pounds sterling 0.20 GBP
+ US dollar 0.30 USD
+ Currency Fee
+ Receiving personal transactions
+ No Fee (when no currency conversion is involved)
+ Rate
+ For information about how we convert currency, please see the user agreement.
+ The transaction exchange rate used for your currency conversion includes a fee which we charge 
+above the base exchange rate. The fee depends on the type of currency conversion, as follows:
+ Currency Conversions
+Conversions when sending payments or receiving refund(s)
+ For any currency conversions that occur when making personal payments or commercial 
+transactions and receiving a refund beyond 1 day of the date of the original payment.
+ AMERICAS: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, 
+Barbados, Belize, Bermuda, Bolivia, Cayman Islands, Chile, 
+Colombia, Costa Rica, Dominica, Dominican Republic, 
+Ecuador, El Salvador, Falkland Islands, Grenada, Guatemala, 
+Guyana, Honduras, Jamaica, Montserrat, Netherlands 
+Antilles, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and 
+Nevis, Saint Lucia, Saint Vincent and the Grenadines, 
+Suriname, Trinidad & Tobago, Turks and Caicos Islands, 
+Uruguay, Venezuela, Virgin Islands
+ 4.5%
+ ASIA PACIFIC: Bhutan, Cambodia, Federated States of Micronesia, 
+Indonesia, Laos, Maldives, Mongolia, Nepal, New Zealand, 
+Philippines, Samoa, Singapore, Sri Lanka, Tonga
+ 4.0%
+ MIDDLE EAST & AFRICA: Algeria, Angola, Bahrain, Benin, Botswana, Burkina Faso, 
+Burundi, Cameroon, Cape Verde, Chad, Comoros, Congo, 
+Democratic Rep of the Congo, Cook Islands, Djibouti, Egypt, 
+Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea 
+4.0%
+ Market/Region Rate
+Bissau, Ivory Coast, Jordan, Kazakhstan, Kenya, Kuwait, 
+Kyrgyzstan, Lesotho, Madagascar, Malawi, Mali, Mauritania, 
+Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, 
+Oman, Qatar, Rwanda, Sao Tome And Principe, Saudi 
+Arabia, Senegal, Seychelles, Sierra Leone, Somalia, South 
+Africa, St. Helena, Swaziland, Tajikistan, Tanzania, Togo, 
+Tunisia, Turkmenistan, Uganda, United Arab Emirates, 
+Yemen, Zambia, Zimbabwe
+ SOUTH EAST EUROPE: Albania, Andorra, Azerbaijan, Belarus, Bosnia and 
+Herzegovina, Croatia, Georgia, Iceland, Macedonia, 
+Moldova, Montenegro, Serbia, Ukraine
+ 4.0%
+ Market/Region Rate
+ Malaysia - Conversions when sending payments or receiving refund(s)
+ For any currency conversions that occur when making commercial transactions and receiving a 
+refund beyond 1 day of the date of the original payment.
+Australian 
+dollar (AUD)
+ 4.00% New Taiwan 
+dollar (TWD)
+ 4.00%
+ Brazilian real 
+(BRL)
+ 4.00% New Zealand 
+dollar (NZD)
+ 4.00%
+ Canadian 
+dollar (CAD)
+ 3.50% Norwegian 
+krone (NOK)
+ 4.00%
+ Czech koruna 
+(CZK)
+ 4.00% Philippine 
+peso (PHP)
+ 4.00%
+ Danish krone 
+(DKK)
+ 4.00% Polish zloty 
+(PLN)
+ 4.00%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+Euro (EUR) 4.00% Russian ruble 
+(RUB)
+ 4.00%
+ Hong Kong 
+dollar (HKD)
+ 4.00% Singapore 
+dollar (SGD)
+ 4.00%
+ Hungarian 
+forint (HUF)
+ 4.00% Swedish krona 
+(SEK)
+ 4.00%
+ Israeli new 
+shekel (ILS)
+ 4.00% Swiss franc 
+(CHF)
+ 4.00%
+ Japanese yen 
+(JPY)
+ 4.00% Thai baht (THB) 4.00%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+Malaysian 
+ringgit (MYR)
+ 4.00% UK pounds 
+sterling (GBP)
+ 4.00%
+ Mexican peso 
+(MXN)
+ 4.00% US dollar (USD) 3.50%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Monaco - Conversions when sending payments or receiving refund(s)
+ For any currency conversions that occur when making personal payments or commercial 
+transactions and receiving a refund beyond 1 day of the date of the original payment.
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+Australian 
+dollar (AUD)
+ 4.00% New Taiwan 
+dollar (TWD)
+ 4.00%
+ Brazilian real 
+(BRL)
+ 4.00% New Zealand 
+dollar (NZD)
+ 4.00%
+ Canadian 
+dollar (CAD)
+ 3.50% Norwegian 
+krone (NOK)
+ 4.00%
+ Czech koruna 
+(CZK)
+ 4.00% Philippine 
+peso (PHP)
+ 4.00%
+ Danish krone 
+(DKK)
+ 4.00% Polish zloty 
+(PLN)
+ 4.00%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+Euro (EUR) 4.00% Russian ruble 
+(RUB)
+ 4.00%
+ Hong Kong 
+dollar (HKD)
+ 4.00% Singapore 
+dollar (SGD)
+ 4.00%
+ Hungarian 
+forint (HUF)
+ 4.00% Swedish krona 
+(SEK)
+ 4.00%
+ Israeli new 
+shekel (ILS)
+ 4.00% Swiss franc 
+(CHF)
+ 4.00%
+ Japanese yen 
+(JPY)
+ 4.00% Thai baht (THB) 4.00%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+Malaysian 
+ringgit (MYR)
+ 4.00% UK pounds 
+sterling (GBP)
+ 4.00%
+ Mexican peso 
+(MXN)
+ 4.00% US dollar (USD) 3.50%
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Currency Rate above the base 
+exchange rate (to form the 
+transaction exchange 
+rate)
+ Converting balance, transfers, and payments received into another currency
+ For any currency conversions that occur when receiving other payments (including PayPal 
+Payouts), adding funds to your PayPal account, transferring funds to your bank/card account, and 
+when transferring funds between your PayPal balances if held in different currencies.
+ AMERICAS: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, 
+Barbados, Belize, Bermuda, Bolivia, Cayman Islands, Chile, 
+3.5%
+ Market/Region Rate
+Colombia, Costa Rica, Dominica, Dominican Republic, 
+Ecuador, El Salvador, Falkland Islands, Grenada, Guatemala, 
+Guyana, Honduras, Jamaica, Montserrat, Netherlands 
+Antilles, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and 
+Nevis, Saint Lucia, Saint Vincent and the Grenadines, 
+Suriname, Trinidad & Tobago, Turks and Caicos Islands, 
+Uruguay, Venezuela, Virgin Islands
+ ASIA PACIFIC: Bhutan, Cambodia, Federated States of Micronesia, 
+Indonesia, Laos, Maldives, Mongolia, Nepal, New Zealand, 
+Philippines, Samoa, Singapore, Sri Lanka, Tonga
+ 3.0%
+ MIDDLE EAST & AFRICA: Algeria, Angola, Bahrain, Benin, Botswana, Burkina Faso, 
+Burundi, Cameroon, Cape Verde, Chad, Comoros, Congo, 
+Democratic Rep of the Congo, Cook Islands, Djibouti, Egypt, 
+Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea 
+Bissau, Ivory Coast, Jordan, Kazakhstan, Kenya, Kuwait, 
+Kyrgyzstan, Lesotho, Madagascar, Malawi, Mali, Mauritania, 
+Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, 
+Oman, Qatar, Rwanda, Sao Tome And Principe, Saudi 
+Arabia, Senegal, Seychelles, Sierra Leone, Somalia, South 
+Africa, St. Helena, Swaziland, Tajikistan, Tanzania, Togo, 
+Tunisia, Turkmenistan, Uganda, United Arab Emirates, 
+Yemen, Zambia, Zimbabwe
+ 3.0%
+ Market/Region Rate
+Malaysia 2.5%
+ SOUTH EAST EUROPE: Albania, Andorra, Azerbaijan, Belarus, Bosnia and 
+Herzegovina, Croatia, Georgia, Iceland, Macedonia, 
+Moldova, Monaco, Montenegro, Serbia, Ukraine
+ 3.0%
+ Market/Region Rate
+ Conversions in all other cases
+ Rates for all other currency conversions:
+ 3.00%
+ Rate
+ Withdrawals Out of PayPal
+You can typically withdraw money out of PayPal by standard withdrawals/transfers to your linked 
+bank account or eligible cards. Withdrawal to a bank account or a card may not be possible in all 
+markets/regions. A currency conversion (and currency conversion fees) may also apply.
+ Note: For additional listings of transfer rates out of business accounts, please visit our PayPal 
+Merchant Fees Page.
+ Withdrawing a balance from a personal PayPal account
+ Bank account
+ AE
+ No Fee (when no currency 
+conversion is involved) 
+where AED withdrawal 
+amount is greater than 750.00 
+AED
+ 11.00 AED
+ If AED withdrawal amount is less 
+than 750.00 AED
+ 1.50%, minimum fee 15.00 USD
+ (per USD withdrawal)*
+ Withdrawal/Transfer to Market/Region Rate
+AL 536.00 ALL (per ALL 
+withdrawal)*
+ AR 75.00 ARS (per ARS 
+withdrawal)
+ BH 2.00 BHD (per BHD 
+withdrawal)*
+ CL
+ 800.00 CLP (per CLP 
+withdrawal)
+ 1.00%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ CO 3500.00 COP (per COP 
+withdrawal)
+ Withdrawal/Transfer to Market/Region Rate
+CR
+ 625.00 CRC (per CRC 
+withdrawal)
+ 1.00%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ DO
+ 100.00 DOP (per DOP 
+withdrawal)
+ 0.50%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ EC 0.50%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ EG 125.00 EGP (per EGP 
+withdrawal)
+ Withdrawal/Transfer to Market/Region Rate
+GE 13.50 GEL (per GEL 
+withdrawal)*
+ ID
+ No Fee (when no currency 
+conversion is involved) 
+where IDR withdrawal amount 
+is greater than 1,500,000.00 
+IDR
+ 16,000.00 IDR
+ If IDR withdrawal amount is less 
+than 1,500,000.00 IDR
+ JO 3.50 JOD (per JOD 
+withdrawal)*
+ KE No Fee (when no currency 
+conversion is involved) 
+where KES withdrawal 
+amount is greater than 
+20,000.00 KES
+ Withdrawal/Transfer to Market/Region Rate
+105.00 KES
+ If KES withdrawal amount is less 
+than 20,000.00 KES
+ KW 1.50 KWD (per KWD 
+withdrawal)*
+ MA
+ No Fee (when no currency 
+conversion is involved) 
+where MAD withdrawal 
+amount is greater than 
+2000.00 MAD
+ 30.00 MAD
+ If MAD withdrawal amount is 
+less than 2000.00 MAD
+ MD 96.00 MDL (per MDL 
+withdrawal)*
+ Withdrawal/Transfer to Market/Region Rate
+MU 220.00 MUR (per MUR 
+withdrawal)*
+ MY
+ No Fee (when no currency 
+conversion is involved) 
+where MYR withdrawal 
+amount is greater than 400.00 
+MYR
+ 3.00 MYR
+ If MYR withdrawal amount is 
+less than 400.00 MYR
+ OM 2.00 OMR (per OMR 
+withdrawal)*
+ PA 1.00%, minimum fee 15.00 USD
+ (per USD withdrawal)*
+ Withdrawal/Transfer to Market/Region Rate
+PE
+ 4.00 PEN (per PEN 
+withdrawal)
+ 1.00%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ PH
+ No Fee (when no currency 
+conversion is involved) 
+where PHP withdrawal 
+amount is greater than 
+7000.00 PHP
+ 50.00 PHP
+ If PHP withdrawal amount is less 
+than 7000.00 PHP
+ QA 18.00 QAR (per QAR 
+withdrawal)*
+ Withdrawal/Transfer to Market/Region Rate
+RS 550.00 RSD (per RSD 
+withdrawal)*
+ SG
+ No Fee (when no currency 
+conversion is involved) 
+where SGD withdrawal 
+amount is greater than 200.00 
+SGD
+ 1.00 SGD
+ If SGD withdrawal amount is 
+less than 200.00 SGD
+ SV 0.50%, minimum fee 10.00 USD
+ (per USD withdrawal)
+ UY 200.00 UYU (per UYU 
+withdrawal)
+ Withdrawal/Transfer to Market/Region Rate
+All other markets (where 
+available)
+ No Fee (when no currency conversion is 
+involved)
+ US Bank account
+ AR & CO 3.50%
+ CL, CR, DO, & PE 3.00%
+ AE, AL, AO, AZ, BF, BH, BJ, CD, CI, CM, EC, 
+EG, ET, GA, GE, GN, ID, JO, KE, KG, KW, MD, 
+MG, MU, NA, NG, NZ, OM, PA, PH, QA, RS, 
+RW, SG, SL, SV, TG, TJ, TM, TN, TZ, UG, UY, 
+ZM, ZW
+ 3.00%
+ All other markets No Fee (when no currency 
+conversion is involved)
+ Cards HR, KW, PH, QA, RS, & SG 1% of amount transferred
+ Minimum and maximum 
+fees apply based on the 
+Withdrawal/Transfer to Market/Region Rate
+card withdrawal currency, 
+in the table below
+ AL, DZ, AG, BS, BH, BB, BZ, BA, BW, CL, DM, 
+EG, FJ, PF, GE, GD, HN, IS, JO, KZ, LS, MW, 
+MU, MD, MA, MZ, NC, OM, PW, KN, LC, SA, 
+SN, SC, TT, TC, AE, & UY
+ Fixed Fee for card withdrawal 
+applies per withdrawal
+ Fees apply based on the 
+card withdrawal currency, 
+in the table below
+ ID, MY Fixed Fee for card withdrawal 
+applies per withdrawal
+ Fees apply based on the 
+card withdrawal currency, 
+in the table below
+ Manual Withdrawals/Transfers 
+to Visa Credit Card
+ AL, AG, BA, BB, BZ, DM, DZ, EG, FJ, PF, GD, 
+KN, LC, LS, MW, NC, PW, SC, TC, & TT
+ 5.00 USD (or equivalent)
+ Withdrawal/Transfer to Market/Region Rate
+*Additional fees may be charged by your bank resulting in less than full amount being credited to your bank account. PayPal will bear no
+ responsibility for any fees or costs (including lifting fees) imposed by the beneficiary bank where you have your bank account into which
+ you request the withdrawal, or its intermediary/correspondent bank.
+ Currency Conversions: If you withdraw your balance in a currency other than the currency in which the balance on your account is
+ denominated, you will additionally be charged currency conversion fees.
+ HR, KW, PH, QA, RS & SG - Minimum and maximum fees
+ Based on card withdrawal currency:
+ Afghan Afghani 25.00 AFN 1,050.00 AFN
+ Armenian dram 135.00 AMD 5250.00 AMD
+ Australian dollar 0.25 AUD 10.00 AUD
+ Azerbaijan manat 0.45 AZN 17.50 AZN
+ Bahraini dinar 0.10 BHD 4.00 BHD
+ Currency Minimum Fee Maximum Fee
+Bangladeshi Taka 22.00 BDT 880.00 BDT
+ Belizean dollar 0.50 BZD 20.00 BZD
+ Bulgarian lev 0.50 BGN 20.00 BGN
+ Canadian dollar 0.25 CAD 10.00 CAD
+ CFA france 135.00 XOF 5400.00 XOF
+ Czech koruna 5.70 CZK 230.00 CZK
+ Danish krone 1.80 DKK 70.00 DKK
+ Eritrean Nakfa 3.75 ERN 150.00 ERN
+ Currency Minimum Fee Maximum Fee
+Euro 0.25 EUR 10.00 EUR
+ Ghanaian Cedi 1.55 GHS 62.50 GHS
+ Haitian Gourde 25.00 HTG 1,000.00 HTG
+ Hong Kong dollar 2.00 HKD 80.00 HKD
+ Hungarian forint 70.00 HUF 2900.00 HUF
+ Iraqi Dinar 365.00 IQD 14,500.00 IQD
+ Israeli new shekel 1.00 ILS 40.00 ILS
+ Japanese yen 30.00 JPY 1100.00 JPY
+ Currency Minimum Fee Maximum Fee
+Jordanian dinar 0.20 JOD 7.25 JOD
+ Kuwaiti dinar 1 KWD No Max
+ Kyrgyzstani som 22.50 KGS 850.00 KGS
+ Lebanese Pound 380.00 LBP 15,250.00 LBP
+ Lesotho Loti 4.00 LSL 160.00 LSL
+ Liberian Dollar 37.50 LRD 1,500.00 LRD
+ Macanese Pataca 2.00 MOP 80.00 MOP
+ Malaysian ringgit 1.00 MYR 40.00 MYR
+ Currency Minimum Fee Maximum Fee
+Mauritanian Ouguiya 9 MRU 360.00 MRU
+ Mexican peso 5.00 MXN 200.00 MXN
+ Mozambican metical 20.00 MZN 750.00 MZN
+ Myanmar Kyat 450.00 MMK 18,000.00 MMK
+ New Zealand dollar 0.40 NZD 15.00 NZD
+ Norwegian krone 1.00 NOK 40.00 NOK
+ Omani rial 0.10 OMR 4.00 OMR
+ Pakistani Rupee 45.00 PKR 1,800.00 PKR
+ Currency Minimum Fee Maximum Fee
+Philippine peso 10.00 PHP 500.00 PHP
+ Polish zloty 1.00 PLN 40.00 PLN
+ Qatari rial 1.00 QAR 40.00 QAR
+ Romania new lei 1.00 RON 40.00 RON
+ Russian ruble 20.00 RUB 700.00 RUB
+ Rwandan franc 250.00 RWF 10,000.00 RWF
+ Salvadoran Colón 2.25 SVC 90.00 SVC
+ São Tomé And Príncipe Dobra 5.50 STN 220.00 STN
+ Currency Minimum Fee Maximum Fee
+Serbian dinar 25.00 RSD 1000.00 RSD
+ Singapore dollar 0.50 SGD 15.00 SGD
+ South African rand 3.60 ZAR 145.00 ZAR
+ Sri Lanka rupee 50.00 LKR 1800.00 LKR
+ Swedish krona 2.50 SEK 100.00 SEK
+ Swiss franc 0.25 CHF 10.00 CHF
+ Thai baht 8.00 THB 320.00 THB
+ Tunisian dinar 0.75 TND 27.50 TND
+ Currency Minimum Fee Maximum Fee
+Turkish lira 3.50 TRY 140.00 TRY
+ Turkmenistani Manat 1.00 TMT 40.00 TMT
+ Ugandan shilling 930.00 UGX 37,500.00 UGX
+ United Arab Emirates dirham 0.90 AED 36.70 AED
+ UK pounds sterling 0.20 GBP 8.00 GBP
+ US dollar 0.25 USD 10.00 USD
+ Uzbekistani Som 3,000.00 UZS 120,000.00 UZS
+ Venezuelan bolivar 2,000,000.00 VES 60,000,000.00 VES
+ Currency Minimum Fee Maximum Fee
+Zambian kwacha 5.50 ZMW 215.00 ZMW
+ ALL Other Currencies No Min No Max
+ Currency Minimum Fee Maximum Fee
+ Currency Conversions:
+ If you withdraw your balance in a currency other than the currency in which the balance on your account is
+ denominated, you will additionally be charged currency conversion fees.
+ AL, DZ, AG, BS, BH, BB, BZ, BA, BW, CL, DM, EG, FJ, PF, GE, GD, HN, IS, JO, KZ, LS, MW, MU, MD, MA, MZ,
+ NC, OM, PW, KN, LC, SA, SN, SC, TT, TC, AE, & UY - Fixed fee for card withdrawal
+ Based on withdrawal currency:
+ Afghan Afghani 525.00 AFN
+ Albania lek 552.00 ALL
+ Currency Fee
+Algerian dinar 600.00 DZD
+ Angola kwanza 2466.00 AOA
+ Argentine peso 15.00 ARS
+ Armenian dram 2625.00 AMD
+ Aruban florin 9.00 AWG
+ Australian dollar 7.00 AUD
+ Azerbaijan manat 8.50 AZN
+ Bahamian dollar 5.00 BSD
+ Currency Fee
+Bahraini dinar 2.00 BHD
+ Balboa 5.00 PAB
+ Bangladeshi Taka 440.00 BDT
+ Barbados dollar 10.00 BBD
+ Belizean dollar 10.00 BZD
+ Bermudian dollar 5.00 BMD
+ Bhutan ngultrum 355.00 BTN
+ Boliviano 35.00 BOB
+ Currency Fee
+Botswana pula 54.00 BWP
+ Brazilian real 10.00 BRL
+ Brunei dollar 7.00 BND
+ Bulgarian lev 7.00 BGN
+ Burundi franc 9449.00 BIF
+ Cabo Verde escudo 497.00 CVE
+ Canadian dollar 6.00 CAD
+ Cayman Island dollar 4.00 KYD
+ Currency Fee
+CFA franc BEAC 2956.00 XAF
+ CFA france 2700.00 XOF
+ Chilean peso 2400.00 CLP
+ Comoro franc 2218.00 KMF
+ Cordoba oro 171.00 NIO
+ Columbian peso 16658.00 COP
+ Congolese franc 8452.00 CDF
+ Convertible mark 9.00 BAM
+ Currency Fee
+Costa Rican colon 2816.00 CRC
+ Cypriot pound 2.40 CYP
+ Czech koruna 110.00 CZK
+ Currency Fee
+ Dalasi 256.00 GMD
+ Danish krone 30.00 DKK
+ Denar 278.00 MKD
+ Djibouti franc 889.00 DJF
+ Currency Fee
+Dominican peso 267.00 DOP
+ Dong 115874.00 VND
+ East Caribbean dollar 14.00 XCD
+ Egyptian pound 79.00 EGP
+ Eritrean Nakfa 75 ERN
+ Estonian kroon 60.00 EEK
+ Ethiopian birr 160.00 ETB
+ Euro 4.00 EUR
+ Currency Fee
+Falkland Islands pound 4.00 FKP
+ Fiji dollar 11.00 FJD
+ Ghanaian Cedi 31.25 GHS
+ Gibraltar pound 4.00 GIP
+ Guarani 32625.00 PYG
+ Guinea franc 47695.00 GNF
+ Guyana dollar 1043.00 GYD
+ Haitian Gourde 500.00 HTG
+ Currency Fee
+Hong Kong dollar 40.00 HKD
+ Hryvnia 122.00 UAH
+ Hungarian forint 1000.00 HUF
+ Iceland krona 340.00 ISK
+ Indian rupee 200.00 INR
+ Iraqi Dinar 7250.00 IQD
+ Israeli new shekel 22.00 ILS
+ Japanese yen 610.00 JPY
+ Currency Fee
+Jamaican dollar 670.00 JMD
+ Jordanian dinar 3.60 JOD
+ Kenyan shilling 504.00 KES
+ Kina 17.00 PGK
+ Kip 44392.00 LAK
+ Kuwaiti dinar 5.00 KWD
+ Kwacha 3684.00 MWK
+ Kyrgyzstani som 425.00 KGS
+ Currency Fee
+Lari 14.00 GEL
+ Latvian lat 3.00 LVL
+ Lebanese Pound 7600.00 LBP
+ Leone 49324.00 SLL
+ Lempira 123.00 HNL
+ Lesotho Loti 80.00 LSL
+ Liberian Dollar 750.00 LRD
+ Lilangeni 72.00 SZL
+ Currency Fee
+Lithuanian litas 14.00 LTL
+ Macanese Pataca 40.00 MOP
+ Malaysian ringgit 20.00 MYR
+ Malagasy Ariary 18259.00 MGA
+ Maltese lira 1.80 MTL
+ Mauritanian ouguiya 180.00 MRU
+ Mauritius rupee 183.00 MUR
+ Mexican peso 60.00 MXN
+ Currency Fee
+Moldovan leu 88.00 MDL
+ Moroccan dirham 48.00 MAD
+ Mozambican metical 375.00 MZN
+ Myanmar Kyat 9000.00 MMK
+ Naira 1812.00 NGN
+ Namibia dollar 72.00 NAD
+ Nepalese rupee 571.00 NPR
+ Netherlands Antillean guilder 8.00 ANG
+ Currency Fee
+New Taiwan dollar 175.00 TWD
+ New Zealand dollar 8.00 NZD
+ Norwegian krone 32.00 NOK
+ Nuevo Sol 17.00 PEN
+ Omani rial 2.00 OMR
+ Pa’anga 11.00 TOP
+ Pakistani Rupee 900.00 PKR
+ Philippine peso 250.00 PHP
+ Currency Fee
+Polish zloty 16.00 PLN
+ Qatari rial 18.00 QAR
+ Quetzal 38.00 GTQ
+ Rand 40.00 ZAR
+ Riel 20600.00 KHR
+ Romanian leu 12.00 RON
+ Rufiyaa 77.00 MVR
+ Currency Fee
+ Currency Fee
+Rupiah 46000.00 IDR
+ Russian ruble 150.00 RUB
+ Rwandan franc 5000.00 RWF
+ Saint Helena pound 4.00 SHP
+ Salvadoran Colón 45.00 SVC
+ São Tomé And Príncipe Dobra 110.00 STN
+ Saudi riyal 19.00 SAR
+ Serbian dinar 530.00 RSD
+ Currency Fee
+Seychelles rupee 68.00 SCR
+ Singapore dollar 8.00 SGD
+ Slovak koruna 140.00 SKK
+ Solomon Islands dollar 41.00 SBD
+ Somali shilling 2898.00 SOS
+ Somoni 52.00 TJS
+ Sri Lanka rupee 907.00 LKR
+ Surinam dollar 37.00 SRD
+ Currency Fee
+Swedish krona 35.00 SEK
+ Swiss franc 6.50 CHF
+ Tala 13.00 WST
+ Tanzanian shilling 11520.00 TZS
+ Tenge 1887.00 KZT
+ Thai baht 200.00 THB
+ Trinidad and Tobago dollar 34.00 TTD
+ Tugrik 13735.00 MNT
+ Currency Fee
+Tunisian dinar 13.00 TND
+ Turkish lira 70.00 TRY
+ Turkmenistani Manat 20.00 TMT
+ Uganda shilling 18388.00 UGX
+ UAE dirham 20.00 AED
+ UK pounds sterling 3.00 GBP
+ US dollar 5.00 USD
+ Uzbekistani Som 60,000.00 UZS
+ Currency Fee
+Uruguay peso 100.00 UYI/UYU
+ Vatu 582.00 VUV
+ Venezuelan bolivar 30,000,000.00 VES
+ Won 5830.00 KRW
+ Yemeni rial 1252.00 YER
+ Yuan renminbi 35.00 CNY
+ Zambian kwacha 107.50 ZMW
+ Currency Fee
+ Currency Conversions:
+ If you withdraw your balance in a currency other than the currency in which the balance on your account is
+ denominated, you will additionally be charged currency conversion fees.
+ID & MY - Fixed fee for card withdrawal
+ Based on withdrawal currency:
+ Afghan Afghani 525.00 AFN
+ Albania lek 552.00 ALL
+ Algerian dinar 600.00 DZD
+ Angola kwanza 2466.00 AOA
+ Argentine peso 15.00 ARS
+ Armenian dram 2625.00 AMD
+ Aruban florin 9.00 AWG
+ Currency Fee
+Australian dollar 7.00 AUD
+ Azerbaijan manat 8.50 AZN
+ Bahamian dollar 5.00 BSD
+ Bahraini dinar 2.00 BHD
+ Balboa 5.00 PAB
+ Bangladeshi Taka 440.00 BDT
+ Barbados dollar 10.00 BBD
+ Belizean dollar 10.00 BZD
+ Currency Fee
+Bermudian dollar 5.00 BMD
+ Bhutan ngultrum 355.00 BTN
+ Boliviano 35.00 BOB
+ Botswana pula 54.00 BWP
+ Brazilian real 10.00 BRL
+ Brunei dollar 7.00 BND
+ Bulgarian lev 7.00 BGN
+ Burundi franc 9449.00 BIF
+ Currency Fee
+Cabo Verde escudo 497.00 CVE
+ Canadian dollar 6.00 CAD
+ Cayman Island dollar 4.00 KYD
+ CFA franc BEAC 2956.00 XAF
+ CFA france 2700.00 XOF
+ Chilean peso 2400.00 CLP
+ Comoro franc 2218.00 KMF
+ Cordoba oro 171.00 NIO
+ Currency Fee
+Columbian peso 16658.00 COP
+ Congolese franc 8452.00 CDF
+ Convertible mark 9.00 BAM
+ Costa Rican colon 2816.00 CRC
+ Cypriot pound 2.40 CYP
+ Czech koruna 110.00 CZK
+ Currency Fee
+ Dalasi 256.00 GMD
+ Currency Fee
+Danish krone 30.00 DKK
+ Denar 278.00 MKD
+ Djibouti franc 889.00 DJF
+ Dominican peso 267.00 DOP
+ Dong 115874.00 VND
+ East Caribbean dollar 14.00 XCD
+ Egyptian pound 79.00 EGP
+ Eritrean Nakfa 75 ERN
+ Currency Fee
+Estonian kroon 60.00 EEK
+ Ethiopian birr 160.00 ETB
+ Euro 4.00 EUR
+ Falkland Islands pound 4.00 FKP
+ Fiji dollar 11.00 FJD
+ Ghanaian Cedi 31.25 GHS
+ Gibraltar pound 4.00 GIP
+ Guarani 32625.00 PYG
+ Currency Fee
+Guinea franc 47695.00 GNF
+ Guyana dollar 1043.00 GYD
+ Haitian Gourde 500.00 HTG
+ Hong Kong dollar 40.00 HKD
+ Hryvnia 122.00 UAH
+ Hungarian forint 1000.00 HUF
+ Iceland krona 340.00 ISK
+ Indian rupee 200.00 INR
+ Currency Fee
+Iraqi Dinar 7250.00 IQD
+ Israeli new shekel 22.00 ILS
+ Japanese yen 610.00 JPY
+ Jamaican dollar 670.00 JMD
+ Jordanian dinar 3.60 JOD
+ Kenyan shilling 504.00 KES
+ Kina 17.00 PGK
+ Kip 44392.00 LAK
+ Currency Fee
+Kuwaiti dinar 5.00 KWD
+ Kwacha 3684.00 MWK
+ Kyrgyzstani som 425.00 KGS
+ Currency Fee
+ Lari 14.00 GEL
+ Latvian lat 3.00 LVL
+ Lebanese Pound 7600.00 LBP
+ Leone 49324.00 SLL
+ Currency Fee
+Lempira 123.00 HNL
+ Lesotho Loti 80.00 LSL
+ Liberian Dollar 750.00 LRD
+ Lilangeni 72.00 SZL
+ Lithuanian litas 14.00 LTL
+ Macanese Pataca 40.00 MOP
+ Malaysian ringgit 3.00 MYR
+ Malagasy Ariary 18259.00 MGA
+ Currency Fee
+Maltese lira 1.80 MTL
+ Mauritanian ouguiya 180.00 MRU
+ Mauritius rupee 183.00 MUR
+ Mexican peso 60.00 MXN
+ Moldovan leu 88.00 MDL
+ Moroccan dirham 48.00 MAD
+ Mozambican metical 375.00 MZN
+ Myanmar Kyat 9000.00 MMK
+ Currency Fee
+Naira 1812.00 NGN
+ Namibia dollar 72.00 NAD
+ Nepalese rupee 571.00 NPR
+ Netherlands Antillean guilder 8.00 ANG
+ New Taiwan dollar 175.00 TWD
+ New Zealand dollar 8.00 NZD
+ Norwegian krone 32.00 NOK
+ Nuevo Sol 17.00 PEN
+ Currency Fee
+Omani rial 2.00 OMR
+ Pa’anga 11.00 TOP
+ Pakistani Rupee 900.00 PKR
+ Philippine peso 250.00 PHP
+ Polish zloty 16.00 PLN
+ Qatari rial 18.00 QAR
+ Quetzal 38.00 GTQ
+ Rand 40.00 ZAR
+ Currency Fee
+Riel 20600.00 KHR
+ Romanian leu 12.00 RON
+ Rufiyaa 77.00 MVR
+ Currency Fee
+ Rupiah 46000.00 IDR
+ Russian ruble 150.00 RUB
+ Rwandan franc 5000.00 RWF
+ Saint Helena pound 4.00 SHP
+ Currency Fee
+Salvadoran Colón 45.00 SVC
+ São Tomé And Príncipe Dobra 110.00 STN
+ Saudi riyal 19.00 SAR
+ Serbian dinar 530.00 RSD
+ Seychelles rupee 68.00 SCR
+ Singapore dollar 8.00 SGD
+ Slovak koruna 140.00 SKK
+ Solomon Islands dollar 41.00 SBD
+ Currency Fee
+Somali shilling 2898.00 SOS
+ Somoni 52.00 TJS
+ Sri Lanka rupee 907.00 LKR
+ Surinam dollar 37.00 SRD
+ Swedish krona 35.00 SEK
+ Swiss franc 6.50 CHF
+ Tala 13.00 WST
+ Tanzanian shilling 11520.00 TZS
+ Currency Fee
+Tenge 1887.00 KZT
+ Thai baht 200.00 THB
+ Trinidad and Tobago dollar 34.00 TTD
+ Tugrik 13735.00 MNT
+ Tunisian dinar 13.00 TND
+ Turkish lira 70.00 TRY
+ Turkmenistani Manat 20.00 TMT
+ Uganda shilling 18388.00 UGX
+ Currency Fee
+UAE dirham 20.00 AED
+ UK pounds sterling 3.00 GBP
+ US dollar 5.00 USD
+ Uzbekistani Som 60,000.00 UZS
+ Uruguay peso 100.00 UYI/UYU
+ Vatu 582.00 VUV
+ Venezuelan bolivar 30,000,000.00 VES
+ Won 5830.00 KRW
+ Currency Fee
+Yemeni rial 1252.00 YER
+ Yuan renminbi 35.00 CNY
+ Zambian kwacha 107.50 ZMW
+ Currency Fee
+ Currency Conversions:
+ If you withdraw your balance in a currency other than the currency in which the balance on your account is
+ denominated, you will additionally be charged currency conversion fees.
+ Withdrawals through third party service providers
+ Depending on the markets/regions in which your account is registered, you may be able to directly 
+withdraw/transfer funds from or to your PayPal account to a linked local bank account or wallet 
+through a third-party service provider. You will need to be registered with the third-party service 
+provider to create and/or link a PayPal account to your local bank account or wallet. A currency 
+conversion (and currency conversion fees) may also apply.
+Bank account or wallet AE, AO, AZ, BF, BH, BI, BJ, BW, CD, CG, CI, CK, CM, CV, DJ, DZ, EG, ER, 
+ET, GA, GM, GN, GW, JO, KE, KG, KM, KW, KZ, LS, MA, MG, ML, MR, MU, 
+MW, MZ, NA, NE, NG, OM, QA, RW, SA, SC, SH, SL, SN, SO, ST, SZ, TD, 
+TG, TJ, TM, TN, TZ, UG, YE, ZA, ZM, ZW
+ 2.0% + 
+1.50 
+USD*
+ Withdrawal/Transfer 
+to
+ Market/Region Rate
+ *
+ Additional fees will be charged by your third-party service provider resulting in less than full amount being credited to your account.
+ PayPal will bear no responsibility for any fees or costs (including lifting fees) imposed by the beneficiary financial service provider where
+ you have your account into which you request the withdrawal, or its intermediary/correspondent bank.
+ Included below are fees associated with events, requests, or actions that may happen when you 
+use your account.
+ Other Consumer Fees
+ Other Fees
+ Activity Description Rate
+Bank Return on 
+Withdrawal/Transfer out 
+of PayPal
+ This fee is charged when a withdrawal/transfer out of 
+PayPal is attempted by a user and it fails because incorrect 
+bank account information or delivery information is 
+provided.
+ See Bank Return on 
+Transfer out of PayPal 
+Table below.
+ Credit Card and Debit 
+Card Confirmation(s)
+ Some users, in order to increase their sending limit or as 
+PayPal may determine, may be charged a credit card and 
+debit card link and confirmation fee. This amount will be 
+refunded when you successfully complete the credit card 
+or debit card verification process.
+ See Credit Card and 
+Debit Card Link and 
+Confirmation Table 
+below.
+ Records Request This fee will apply for requests of information relating to 
+why we had reasonable justification to refuse your 
+payment order. We will not charge you for records 
+requested in connection with your good-faith assertion of 
+an error in your PayPal account.
+ 10.00 SGD or other 
+currency equivalent 
+(per item)
+ Activity Description Rate
+ Bank Return on Withdrawal/Transfer out of PayPal Table
+HR & IS 3.00 EUR
+ ID 50,000.00 IDR
+ PH 250.00 PHP
+ MY 15.00 MYR
+ Market/Region Rate
+ Credit Card and Debit Card Link and Confirmation Table
+ Australian dollar 2.00 AUD
+ Brazilian real 4.00 BRL
+ Currency Rate
+Canadian dollar 2.45 CAD
+ Czech koruna 50.00 CZK
+ Danish krone 12.50 DKK
+ Euro 1.50 EUR
+ Hong Kong dollar 15.00 HKD
+ Hungarian forint 400.00 HUF
+ Israeli new shekel 8.00 ILS
+ Japanese yen 200.00 JPY
+ Currency Rate
+Malaysian ringgit 10.00 MYR
+ Mexican peso 20.00 MXN
+ Currency Rate
+ New Taiwan dollar 70.00 TWD
+ New Zealand dollar 3.00 NZD
+ Norwegian krone 15.00 NOK
+ Philippine peso 100.00 PHP
+ Polish zloty 6.50 PLN
+ Currency Rate
+Russian ruble 60.00 RUB
+ Singapore dollar 3.00 SGD
+ Swedish krona 15.00 SEK
+ Swiss franc 3.00 CHF
+ Thai baht 70.00 THB
+ UK pounds sterling 1.00 GBP
+ US dollar 1.95 USD
+ Currency Rate

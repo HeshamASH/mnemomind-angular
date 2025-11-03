@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MnemoMind</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- pdf.js library for PDF processing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+    <script>
+      // Required for pdf.js to find its worker script
+      pdfjsLib.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js`;
+    </script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        plugins: [
+            tailwind.plugin(function({ addVariant }) {
+                addVariant('prose-pre', '&.prose pre')
+            })
+        ]
+      }
+    </script>
+    <style>
+      /* Custom Scrollbar Styling for Webkit browsers */
+      ::-webkit-scrollbar {
+          width: 8px;
+          height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+          background-color: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+          background-color: #d1d5db; /* Light theme scrollbar */
+          border-radius: 4px;
+          border: 2px solid transparent;
+          background-clip: content-box;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+          background-color: #9ca3af;
+      }
+      .dark ::-webkit-scrollbar-thumb {
+          background-color: #4b5563; /* Dark theme scrollbar */
+      }
+      .dark ::-webkit-scrollbar-thumb:hover {
+          background-color: #6b7280;
+      }
+    </style>
+    <script>
+      // Prevents Flash of Unstyled Content (FOUC) for theme changes
+      if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.25.0",
+    "react-hook-form": "https://aistudiocdn.com/react-hook-form@^7.65.0",
+    "react-dom": "https://aistudiocdn.com/react-dom@^19.2.0",
+    "vite": "https://aistudiocdn.com/vite@^7.1.12",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.4"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-white dark:bg-slate-900">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
