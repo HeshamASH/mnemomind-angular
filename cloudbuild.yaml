@@ -1,0 +1,24 @@
+
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/nifty-time-472013-m1/mnemomind:latest', '.']
+
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/nifty-time-472013-m1/mnemomind:latest']
+
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args:
+  - 'run'
+  - 'deploy'
+  - 'mnemomind'
+  - '--image=gcr.io/nifty-time-472013-m1/mnemomind:latest'
+  - '--region=us-central1'
+  - '--platform=managed'
+  - '--allow-unauthenticated'
+  - "--set-env-vars=ELASTIC_CLOUD_ID='Google_Cloud__Elastic_Project:ZXVyb3BlLXdlc3QxLmdjcC5jbG91ZC5lcy5pbzo0NDMkNDc2ODNkODZlMmEyNDFlZmIzNmViZDc1NzkwMDQ3MmEkYjgzYzUzYWQ4OWY4NDVkOTg0ZDliNTY4NDNmZWNkNTE=',ELASTIC_API_KEY='eVVhOF9Ka0IteWxFNVhVd1UxTTA6YzFJQ3VtcVZPVUZONVlnMzd6bXA0dw==',ELASTIC_INDEX='rag_documents',VITE_API_KEY='AIzaSyDuNIeIbWazRqYdewa563tYyjPAE_2VyYQ'"
+images:
+- 'gcr.io/nifty-time-472013-m1/mnemomind:latest'

@@ -9,7 +9,7 @@ PyPDF2>=3.0.0
 # google-auth-oauthlib>=1.2.0
 itsdangerous>=2.1.2
 Requests>=2.31.0
-fastembed>=0.1.0
+
 # google-api-python-client==2.128.0
 # googleapiclient>=2.0.0
 # google-api-core>=2.0.0
